@@ -1,0 +1,1923 @@
+2017-11-24 15:03:29,248set the path of Driverexecutable
+2017-11-24 15:03:29,251Suite Execution Started
+2017-11-24 15:03:29,998script count:5
+2017-11-24 15:03:30,079script:validloginExecute:No
+2017-11-24 15:03:30,079Not Executing scriptvalidlogin
+2017-11-24 15:03:30,134script:invalidloginExecute:NO
+2017-11-24 15:03:30,134Not Executing scriptinvalidlogin
+2017-11-24 15:03:30,178script:Sheet1Execute:NO
+2017-11-24 15:03:30,178Not Executing scriptSheet1
+2017-11-24 15:03:30,217script:Sheet2Execute:NO
+2017-11-24 15:03:30,217Not Executing scriptSheet2
+2017-11-24 15:03:30,260script:Sheet3Execute:yes
+2017-11-24 15:03:30,261open Chrome Browser
+2017-11-24 15:03:33,464set ITO:10Sec
+2017-11-24 15:03:33,470Enter the urlfile:///D:/abc/page1.html
+2017-11-24 15:03:33,764Execute script:Sheet3
+2017-11-24 15:03:33,765start execute steps
+2017-11-24 15:03:33,827step count:13
+2017-11-24 15:03:33,827-----start step:1-------
+2017-11-24 15:03:33,887Desc:
+2017-11-24 15:03:33,936keyword1:enter
+2017-11-24 15:03:33,978keyword2://input[@id='t1']
+2017-11-24 15:03:34,034keyword3:a
+2017-11-24 15:03:34,051start-executeKeyword
+2017-11-24 15:03:34,150End-ExecuteKeyword
+2017-11-24 15:03:34,161same page no navigation
+2017-11-24 15:03:34,161end execute steps
+2017-11-24 15:03:34,161----EndStep1-----------
+2017-11-24 15:03:34,161-----start step:2-------
+2017-11-24 15:03:34,211Desc:
+2017-11-24 15:03:34,261keyword1:switchToFrameByIndex
+2017-11-24 15:03:34,301keyword2:0
+2017-11-24 15:03:34,329keyword3:
+2017-11-24 15:03:34,337start-executeKeyword
+2017-11-24 15:03:34,337Switching in to Frame By index:0
+2017-11-24 15:03:34,357Switching in to Frame By index:0
+2017-11-24 15:03:34,357End-ExecuteKeyword
+2017-11-24 15:03:34,364same page no navigation
+2017-11-24 15:03:34,364end execute steps
+2017-11-24 15:03:34,364----EndStep2-----------
+2017-11-24 15:03:34,365-----start step:3-------
+2017-11-24 15:03:34,394Desc:
+2017-11-24 15:03:34,426keyword1:enter
+2017-11-24 15:03:34,452keyword2://input[@id='t2']
+2017-11-24 15:03:34,475keyword3:a
+2017-11-24 15:03:34,483start-executeKeyword
+2017-11-24 15:03:34,569End-ExecuteKeyword
+2017-11-24 15:03:34,577same page no navigation
+2017-11-24 15:03:34,577end execute steps
+2017-11-24 15:03:34,577----EndStep3-----------
+2017-11-24 15:03:34,577-----start step:4-------
+2017-11-24 15:03:34,610Desc:
+2017-11-24 15:03:34,632keyword1:exitFromFrameToPage
+2017-11-24 15:03:34,662keyword2:
+2017-11-24 15:03:34,684keyword3:
+2017-11-24 15:03:34,693start-executeKeyword
+2017-11-24 15:03:34,694Exiting from frame to page
+2017-11-24 15:03:34,699Exiting from frame to page
+2017-11-24 15:03:34,699End-ExecuteKeyword
+2017-11-24 15:03:34,705same page no navigation
+2017-11-24 15:03:34,705end execute steps
+2017-11-24 15:03:34,705----EndStep4-----------
+2017-11-24 15:03:34,706-----start step:5-------
+2017-11-24 15:03:34,732Desc:
+2017-11-24 15:03:34,756keyword1:enter
+2017-11-24 15:03:34,779keyword2://input[@id='t1']
+2017-11-24 15:03:34,804keyword3:b
+2017-11-24 15:03:34,812start-executeKeyword
+2017-11-24 15:03:34,851End-ExecuteKeyword
+2017-11-24 15:03:34,859same page no navigation
+2017-11-24 15:03:34,859end execute steps
+2017-11-24 15:03:34,859----EndStep5-----------
+2017-11-24 15:03:34,860-----start step:6-------
+2017-11-24 15:03:34,885Desc:
+2017-11-24 15:03:34,910keyword1:switchToFrameByIdOrName
+2017-11-24 15:03:34,937keyword2:f1
+2017-11-24 15:03:34,963keyword3:
+2017-11-24 15:03:34,973start-executeKeyword
+2017-11-24 15:03:34,973Switching in to Frame By id or Name:f1
+2017-11-24 15:03:45,151Switching in to Frame By id or Name:f1
+2017-11-24 15:03:45,151End-ExecuteKeyword
+2017-11-24 15:03:45,163same page no navigation
+2017-11-24 15:03:45,163end execute steps
+2017-11-24 15:03:45,163----EndStep6-----------
+2017-11-24 15:03:45,163-----start step:7-------
+2017-11-24 15:03:45,210Desc:
+2017-11-24 15:03:45,236keyword1:enter
+2017-11-24 15:03:45,255keyword2://input[@id='t2']
+2017-11-24 15:03:45,271keyword3:b
+2017-11-24 15:03:45,278start-executeKeyword
+2017-11-24 15:03:45,320End-ExecuteKeyword
+2017-11-24 15:03:45,329same page no navigation
+2017-11-24 15:03:45,329end execute steps
+2017-11-24 15:03:45,329----EndStep7-----------
+2017-11-24 15:03:45,329-----start step:8-------
+2017-11-24 15:03:45,346Desc:
+2017-11-24 15:03:45,364keyword1:exitFromFrameToPage
+2017-11-24 15:03:45,384keyword2:
+2017-11-24 15:03:45,402keyword3:
+2017-11-24 15:03:45,408start-executeKeyword
+2017-11-24 15:03:45,409Exiting from frame to page
+2017-11-24 15:03:45,414Exiting from frame to page
+2017-11-24 15:03:45,414End-ExecuteKeyword
+2017-11-24 15:03:45,422same page no navigation
+2017-11-24 15:03:45,422end execute steps
+2017-11-24 15:03:45,423----EndStep8-----------
+2017-11-24 15:03:45,423-----start step:9-------
+2017-11-24 15:03:45,443Desc:
+2017-11-24 15:03:45,468keyword1:enter
+2017-11-24 15:03:45,490keyword2://input[@id='t1']
+2017-11-24 15:03:45,511keyword3:c
+2017-11-24 15:03:45,516start-executeKeyword
+2017-11-24 15:03:45,553End-ExecuteKeyword
+2017-11-24 15:03:45,564same page no navigation
+2017-11-24 15:03:45,564end execute steps
+2017-11-24 15:03:45,565----EndStep9-----------
+2017-11-24 15:03:45,565-----start step:10-------
+2017-11-24 15:03:45,586Desc:
+2017-11-24 15:03:45,607keyword1:switchToFrameByAddress
+2017-11-24 15:03:45,627keyword2://iframe[@name='n1']
+2017-11-24 15:03:45,647keyword3:
+2017-11-24 15:03:45,655start-executeKeyword
+2017-11-24 15:03:45,656Switching in to Frame By Address://iframe[@name='n1']
+2017-11-24 15:03:45,711Switching in to Frame By Address://iframe[@name='n1']
+2017-11-24 15:03:45,711End-ExecuteKeyword
+2017-11-24 15:03:45,722same page no navigation
+2017-11-24 15:03:45,722end execute steps
+2017-11-24 15:03:45,723----EndStep10-----------
+2017-11-24 15:03:45,723-----start step:11-------
+2017-11-24 15:03:45,739Desc:
+2017-11-24 15:03:45,755keyword1:enter
+2017-11-24 15:03:45,778keyword2://input[@id='t2']
+2017-11-24 15:03:45,797keyword3:c
+2017-11-24 15:03:45,808start-executeKeyword
+2017-11-24 15:03:45,851End-ExecuteKeyword
+2017-11-24 15:03:45,860same page no navigation
+2017-11-24 15:03:45,860end execute steps
+2017-11-24 15:03:45,861----EndStep11-----------
+2017-11-24 15:03:45,861-----start step:12-------
+2017-11-24 15:03:45,883Desc:
+2017-11-24 15:03:45,902keyword1:exitFromFrameToParent
+2017-11-24 15:03:45,920keyword2:
+2017-11-24 15:03:45,934keyword3:
+2017-11-24 15:03:45,941start-executeKeyword
+2017-11-24 15:03:45,941Exiting from frame to parent
+2017-11-24 15:03:45,947Exiting from frame to parent
+2017-11-24 15:03:45,947End-ExecuteKeyword
+2017-11-24 15:03:45,954same page no navigation
+2017-11-24 15:03:45,954end execute steps
+2017-11-24 15:03:45,954----EndStep12-----------
+2017-11-24 15:03:45,954-----start step:13-------
+2017-11-24 15:03:45,974Desc:
+2017-11-24 15:03:45,991keyword1:enter
+2017-11-24 15:03:46,009keyword2://input[@id='t1']
+2017-11-24 15:03:46,025keyword3:d
+2017-11-24 15:03:46,031start-executeKeyword
+2017-11-24 15:03:46,069End-ExecuteKeyword
+2017-11-24 15:03:46,079same page no navigation
+2017-11-24 15:03:46,079end execute steps
+2017-11-24 15:03:46,079----EndStep13-----------
+2017-11-24 15:03:46,079Script is PASSED:Sheet3
+2017-11-24 15:03:46,079Quit the Browser
+2017-11-24 15:03:46,849----------------------------------------
+2017-11-24 15:03:46,850Total PASS:1
+2017-11-24 15:03:46,850Total FAIL:0
+2017-11-24 15:03:46,850TOtal Scripts Executed:1
+2017-11-24 15:03:46,850----------------------------------------------------------
+2017-11-24 15:03:47,162Suite EXecution Completed
+2017-11-24 15:17:13,352set the path of Driverexecutable
+2017-11-24 15:17:13,352Suite Execution Started
+2017-11-24 15:17:14,227script count:3
+2017-11-24 15:17:14,306script:validloginExecute:yes
+2017-11-24 15:17:14,306open Chrome Browser
+2017-11-24 15:17:17,408set ITO:10Sec
+2017-11-24 15:17:17,425Enter the urlhttp://localhost/login.do
+2017-11-24 15:17:19,514Execute script:validlogin
+2017-11-24 15:17:19,518start execute steps
+2017-11-24 15:17:19,686step count:1
+2017-11-24 15:17:19,686-----start step:1-------
+2017-11-24 15:17:19,766Desc:
+2017-11-24 15:17:19,858keyword1:enter
+2017-11-24 15:17:19,930keyword2://input[@id='username']
+2017-11-24 15:17:19,973keyword3:admin
+2017-11-24 15:17:19,989start-executeKeyword
+2017-11-24 15:17:20,110End-ExecuteKeyword
+2017-11-24 15:17:20,114same page no navigation
+2017-11-24 15:17:20,114end execute steps
+2017-11-24 15:17:20,114----EndStep1-----------
+2017-11-24 15:17:20,114Script is PASSED:validlogin
+2017-11-24 15:17:20,122Quit the Browser
+2017-11-24 15:17:20,955script:invalidloginExecute:yes
+2017-11-24 15:17:20,955open Chrome Browser
+2017-11-24 15:17:22,950set ITO:10Sec
+2017-11-24 15:17:22,950Enter the urlhttp://localhost/login.do
+2017-11-24 15:17:24,987Execute script:invalidlogin
+2017-11-24 15:17:24,987start execute steps
+2017-11-24 15:17:25,029step count:1
+2017-11-24 15:17:25,029-----start step:1-------
+2017-11-24 15:17:25,081Desc:
+2017-11-24 15:17:25,121keyword1:enter
+2017-11-24 15:17:25,197keyword2://input[@id='userne']
+2017-11-24 15:17:25,245keyword3:abcd
+2017-11-24 15:17:25,265start-executeKeyword
+2017-11-24 15:17:35,384Script is FAILEDinvalidlogin
+2017-11-24 15:17:35,401Taking Screenshot:./photo/ForFailure/invalidlogin_24-Nov-17_03-17-35.png
+2017-11-24 15:17:35,852Quit the Browser
+2017-11-24 15:17:36,821script:validcustomerExecute:no
+2017-11-24 15:17:36,821Not Executing scriptvalidcustomer
+2017-11-24 15:17:36,821----------------------------------------
+2017-11-24 15:17:36,821Total PASS:1
+2017-11-24 15:17:36,821Total FAIL:1
+2017-11-24 15:17:36,821TOtal Scripts Executed:2
+2017-11-24 15:17:36,821----------------------------------------------------------
+2017-11-24 15:17:37,104Suite EXecution Completed
+2017-11-24 15:22:55,656set the path of Driverexecutable
+2017-11-24 15:22:55,656Suite Execution Started
+2017-11-24 15:22:56,391script count:3
+2017-11-24 15:22:56,469script:validloginExecute:yes
+2017-11-24 15:22:56,469open Chrome Browser
+2017-11-24 15:22:59,833set ITO:10Sec
+2017-11-24 15:22:59,851Enter the urlhttp://localhost/login.do
+2017-11-24 15:23:01,777Execute script:validlogin
+2017-11-24 15:23:01,777start execute steps
+2017-11-24 15:23:01,938step count:1
+2017-11-24 15:23:01,938-----start step:1-------
+2017-11-24 15:23:02,018Desc:
+2017-11-24 15:23:02,118keyword1:enter
+2017-11-24 15:23:02,182keyword2://input[@id='username']
+2017-11-24 15:23:02,238keyword3:admin
+2017-11-24 15:23:02,254start-executeKeyword
+2017-11-24 15:23:02,358End-ExecuteKeyword
+2017-11-24 15:23:02,366same page no navigation
+2017-11-24 15:23:02,366end execute steps
+2017-11-24 15:23:02,366----EndStep1-----------
+2017-11-24 15:23:02,366Script is PASSED:validlogin
+2017-11-24 15:23:02,370Quit the Browser
+2017-11-24 15:23:03,222script:invalidloginExecute:yes
+2017-11-24 15:23:03,222open Chrome Browser
+2017-11-24 15:23:05,228set ITO:10Sec
+2017-11-24 15:23:05,228Enter the urlhttp://localhost/login.do
+2017-11-24 15:23:07,331Execute script:invalidlogin
+2017-11-24 15:23:07,331start execute steps
+2017-11-24 15:23:07,375step count:1
+2017-11-24 15:23:07,375-----start step:1-------
+2017-11-24 15:23:07,443Desc:
+2017-11-24 15:23:07,491keyword1:enter
+2017-11-24 15:23:07,543keyword2://input[@id='userne']
+2017-11-24 15:23:07,591keyword3:abcd
+2017-11-24 15:23:07,619start-executeKeyword
+2017-11-24 15:23:17,733Script is FAILEDinvalidlogin
+2017-11-24 15:23:17,749Taking Screenshot:./photo/ForFailure/invalidlogin_24-Nov-17_03-23-17.png
+2017-11-24 15:23:18,136Quit the Browser
+2017-11-24 15:23:18,964script:validcustomerExecute:no
+2017-11-24 15:23:18,964Not Executing scriptvalidcustomer
+2017-11-24 15:23:18,964----------------------------------------
+2017-11-24 15:23:18,964Total PASS:1
+2017-11-24 15:23:18,964Total FAIL:1
+2017-11-24 15:23:18,964TOtal Scripts Executed:2
+2017-11-24 15:23:18,964----------------------------------------------------------
+2017-11-24 15:23:19,263Suite EXecution Completed
+2017-11-24 15:27:58,160set the path of Driverexecutable
+2017-11-24 15:27:58,160Suite Execution Started
+2017-11-24 15:27:58,910script count:3
+2017-11-24 15:27:58,988script:validloginExecute:yes
+2017-11-24 15:27:58,988open Chrome Browser
+2017-11-24 15:28:02,118set ITO:10Sec
+2017-11-24 15:28:02,123Enter the urlhttp://localhost/login.do
+2017-11-24 15:28:06,587Execute script:validlogin
+2017-11-24 15:28:06,587start execute steps
+2017-11-24 15:28:06,756step count:1
+2017-11-24 15:28:06,756-----start step:1-------
+2017-11-24 15:28:06,856Desc:
+2017-11-24 15:28:06,932keyword1:enter
+2017-11-24 15:28:06,992keyword2://input[@id='username']
+2017-11-24 15:28:07,048keyword3:admin
+2017-11-24 15:28:07,084start-executeKeyword
+2017-11-24 15:28:07,203End-ExecuteKeyword
+2017-11-24 15:28:07,207same page no navigation
+2017-11-24 15:28:07,207end execute steps
+2017-11-24 15:28:07,207----EndStep1-----------
+2017-11-24 15:28:07,211Script is PASSED:validlogin
+2017-11-24 15:28:07,219Quit the Browser
+2017-11-24 15:28:08,036script:invalidloginExecute:yes
+2017-11-24 15:28:08,036open Chrome Browser
+2017-11-24 15:28:09,997set ITO:10Sec
+2017-11-24 15:28:09,997Enter the urlhttp://localhost/login.do
+2017-11-24 15:28:12,671Execute script:invalidlogin
+2017-11-24 15:28:12,671start execute steps
+2017-11-24 15:28:12,718step count:1
+2017-11-24 15:28:12,718-----start step:1-------
+2017-11-24 15:28:12,776Desc:
+2017-11-24 15:28:12,818keyword1:enter
+2017-11-24 15:28:12,860keyword2://input[@id='userne']
+2017-11-24 15:28:12,901keyword3:abcd
+2017-11-24 15:28:12,929start-executeKeyword
+2017-11-24 15:28:22,975Script is FAILEDinvalidlogin
+2017-11-24 15:28:22,986Taking Screenshot:./photo/ForFailure/invalidlogin_24-Nov-17_03-28-22.png
+2017-11-24 15:28:23,316Quit the Browser
+2017-11-24 15:28:24,914script:validcustomerExecute:no
+2017-11-24 15:28:24,914Not Executing scriptvalidcustomer
+2017-11-24 15:28:24,915----------------------------------------
+2017-11-24 15:28:24,915Total PASS:1
+2017-11-24 15:28:24,915Total FAIL:1
+2017-11-24 15:28:24,915TOtal Scripts Executed:2
+2017-11-24 15:28:24,915----------------------------------------------------------
+2017-11-24 15:28:25,198Suite EXecution Completed
+2017-11-24 17:17:43,683set the path of Driverexecutable
+2017-11-24 17:18:40,417Suite Execution Started
+2017-11-27 14:37:21,297set the path of Driverexecutable
+2017-11-27 14:37:21,313Suite Execution Started
+2017-11-27 14:37:24,232script count:4
+2017-11-27 14:37:24,468script:validloginExecute:no
+2017-11-27 14:37:24,469Not Executing scriptvalidlogin
+2017-11-27 14:37:24,661script:invalidloginExecute:no
+2017-11-27 14:37:24,661Not Executing scriptinvalidlogin
+2017-11-27 14:37:24,808script:validcustomerExecute:no
+2017-11-27 14:37:24,808Not Executing scriptvalidcustomer
+2017-11-27 14:37:25,048script:listBoxoperationsExecute:yes
+2017-11-27 14:37:25,050open Chrome Browser
+2017-11-27 14:37:30,992set ITO:10Sec
+2017-11-27 14:37:31,013Enter the urlfile:///D:/abc/SelectmultiboxDemo.html
+2017-11-27 14:37:31,913Execute script:listBoxoperations
+2017-11-27 14:37:31,915start execute steps
+2017-11-27 14:37:32,176step count:2
+2017-11-27 14:37:32,177-----start step:1-------
+2017-11-27 14:37:32,383Desc:Searching for listBox
+2017-11-27 14:37:32,532keyword1:searchListBox
+2017-11-27 14:37:32,675keyword2://select[@id='mtr']
+2017-11-27 14:37:32,798keyword3:idly
+2017-11-27 14:37:32,830start-executeKeyword
+2017-11-27 14:37:32,831searching idly in listbox
+2017-11-27 14:37:32,832Quit the Browser
+2017-11-27 14:39:32,789set the path of Driverexecutable
+2017-11-27 14:39:39,472Suite Execution Started
+2017-11-27 14:39:54,724script count:4
+2017-11-27 14:40:11,419script:validloginExecute:no
+2017-11-27 14:40:16,664Not Executing scriptvalidlogin
+2017-11-27 14:40:29,221script:invalidloginExecute:no
+2017-11-27 14:40:34,409Not Executing scriptinvalidlogin
+2017-11-27 14:40:48,290script:validcustomerExecute:no
+2017-11-27 14:40:52,522Not Executing scriptvalidcustomer
+2017-11-27 14:41:02,424script:listBoxoperationsExecute:yes
+2017-11-27 14:41:17,306open Chrome Browser
+2017-11-27 14:41:55,847set ITO:10Sec
+2017-11-27 14:42:31,176Enter the urlfile:///D:/abc/SelectmultiboxDemo.html
+2017-11-27 14:42:40,334Execute script:listBoxoperations
+2017-11-27 14:42:55,127start execute steps
+2017-11-27 14:43:07,822step count:2
+2017-11-27 14:43:12,098-----start step:1-------
+2017-11-27 14:43:18,681Desc:Searching for listBox
+2017-11-27 14:43:28,022keyword1:searchListBox
+2017-11-27 14:43:34,412keyword2://select[@id='mtr']
+2017-11-27 14:43:41,198keyword3:idly
+2017-11-27 14:44:00,721start-executeKeyword
+2017-11-27 14:44:00,722searching idly in listbox
+2017-11-27 14:44:15,109Quit the Browser
+2017-11-27 14:47:13,170set the path of Driverexecutable
+2017-11-27 14:47:13,170Suite Execution Started
+2017-11-27 14:47:15,545script count:4
+2017-11-27 14:47:15,797script:validloginExecute:no
+2017-11-27 14:47:15,797Not Executing scriptvalidlogin
+2017-11-27 14:47:15,953script:invalidloginExecute:no
+2017-11-27 14:47:15,953Not Executing scriptinvalidlogin
+2017-11-27 14:47:16,093script:validcustomerExecute:no
+2017-11-27 14:47:16,093Not Executing scriptvalidcustomer
+2017-11-27 14:47:16,218script:listBoxoperationsExecute:yes
+2017-11-27 14:47:16,234open Chrome Browser
+2017-11-27 14:47:22,173set ITO:10Sec
+2017-11-27 14:47:22,393Enter the urlfile:///D:/abc/SelectmultiboxDemo.html
+2017-11-27 14:47:23,256Execute script:listBoxoperations
+2017-11-27 14:47:23,260start execute steps
+2017-11-27 14:47:23,508step count:2
+2017-11-27 14:47:23,508-----start step:1-------
+2017-11-27 14:47:23,743Desc:Searching for listBox
+2017-11-27 14:47:23,899keyword1:searchListBox
+2017-11-27 14:47:24,055keyword2://select[@id='mtr']
+2017-11-27 14:47:24,208keyword3:idly
+2017-11-27 14:47:24,248start-executeKeyword
+2017-11-27 14:47:24,248searching idly in listbox
+2017-11-27 14:47:24,252Quit the Browser
+2017-11-27 14:49:44,571set the path of Driverexecutable
+2017-11-27 14:49:44,588Suite Execution Started
+2017-11-27 14:49:47,119script count:4
+2017-11-27 14:49:47,385script:validloginExecute:no
+2017-11-27 14:49:47,385Not Executing scriptvalidlogin
+2017-11-27 14:49:47,604script:invalidloginExecute:no
+2017-11-27 14:49:47,604Not Executing scriptinvalidlogin
+2017-11-27 14:49:47,745script:validcustomerExecute:no
+2017-11-27 14:49:47,745Not Executing scriptvalidcustomer
+2017-11-27 14:49:47,870script:listBoxoperationsExecute:yes
+2017-11-27 14:49:47,870open Chrome Browser
+2017-11-27 14:49:53,821set ITO:10Sec
+2017-11-27 14:49:54,090Enter the urlfile:///D:/abc/SelectmultiboxDemo.html
+2017-11-27 14:49:55,105Execute script:listBoxoperations
+2017-11-27 14:49:55,105start execute steps
+2017-11-27 14:49:55,347step count:2
+2017-11-27 14:49:55,347-----start step:1-------
+2017-11-27 14:49:55,534Desc:Searching for listBox
+2017-11-27 14:49:55,909keyword1:searchListBox
+2017-11-27 14:49:56,034keyword2://select[@id='mtr']
+2017-11-27 14:49:56,318keyword3:idly
+2017-11-27 14:49:56,380Quit the Browser
+2017-11-27 14:50:53,912set the path of Driverexecutable
+2017-11-27 14:50:53,928Suite Execution Started
+2017-11-27 14:50:56,193script count:4
+2017-11-27 14:50:56,413script:validloginExecute:no
+2017-11-27 14:50:56,413Not Executing scriptvalidlogin
+2017-11-27 14:50:56,601script:invalidloginExecute:no
+2017-11-27 14:50:56,601Not Executing scriptinvalidlogin
+2017-11-27 14:50:56,741script:validcustomerExecute:no
+2017-11-27 14:50:56,741Not Executing scriptvalidcustomer
+2017-11-27 14:50:56,866script:listBoxoperationsExecute:yes
+2017-11-27 14:50:56,866open Chrome Browser
+2017-11-27 14:51:02,690set ITO:10Sec
+2017-11-27 14:51:02,892Enter the urlfile:///D:/abc/SelectmultiboxDemo.html
+2017-11-27 14:51:03,745Execute script:listBoxoperations
+2017-11-27 14:51:03,747start execute steps
+2017-11-27 14:51:04,061step count:2
+2017-11-27 14:51:04,062-----start step:1-------
+2017-11-27 14:51:04,277Desc:Searching for listBox
+2017-11-27 14:51:04,441keyword1:searchListBox
+2017-11-27 14:51:04,593keyword2://select[@id='mtr']
+2017-11-27 14:51:04,745keyword3:idly
+2017-11-27 14:51:04,776start-executeKeyword
+2017-11-27 14:51:04,777searching idly in listbox
+2017-11-27 14:51:04,790searching  idlyin list box ://select[@id='mtr']
+2017-11-27 14:51:05,113comparing with :idly
+2017-11-27 14:51:05,113PASS: Option found in listbox
+2017-11-27 14:51:05,114End-ExecuteKeyword
+2017-11-27 14:51:05,129same page no navigation
+2017-11-27 14:51:05,130end execute steps
+2017-11-27 14:51:05,130----EndStep1-----------
+2017-11-27 14:51:05,130-----start step:2-------
+2017-11-27 14:51:05,240Desc:checking is list box sorted
+2017-11-27 14:51:05,392keyword1:isListBoxSorted
+2017-11-27 14:51:05,511keyword2://select[@id='mtr']
+2017-11-27 14:51:05,617keyword3:
+2017-11-27 14:51:05,642start-executeKeyword
+2017-11-27 14:51:05,643Checking list box is sorted or not
+2017-11-27 14:51:05,643checking the listbox is sorted
+2017-11-27 14:51:06,201FAIL: List box is not in sorted order
+2017-11-27 14:51:06,202Script is FAILEDlistBoxoperations
+2017-11-27 14:51:06,206Taking Screenshot:./photo/ForFailure/listBoxoperations_27-Nov-17_02-51-06.png
+2017-11-27 14:51:06,712Quit the Browser
+2017-11-27 14:51:07,668----------------------------------------
+2017-11-27 14:51:07,669Total PASS:0
+2017-11-27 14:51:07,669Total FAIL:1
+2017-11-27 14:51:07,669TOtal Scripts Executed:1
+2017-11-27 14:51:07,669----------------------------------------------------------
+2017-11-27 14:51:08,761Suite EXecution Completed
+2017-11-27 14:57:52,055set the path of Driverexecutable
+2017-11-27 14:57:52,061Suite Execution Started
+2017-11-27 14:57:54,277script count:4
+2017-11-27 14:57:54,517script:validloginExecute:no
+2017-11-27 14:57:54,517Not Executing scriptvalidlogin
+2017-11-27 14:57:54,708script:invalidloginExecute:no
+2017-11-27 14:57:54,709Not Executing scriptinvalidlogin
+2017-11-27 14:57:54,857script:validcustomerExecute:no
+2017-11-27 14:57:54,858Not Executing scriptvalidcustomer
+2017-11-27 14:57:55,009script:listBoxoperationsExecute:yes
+2017-11-27 14:57:55,010open Chrome Browser
+2017-11-27 14:58:01,249set ITO:10Sec
+2017-11-27 14:58:01,267Enter the urlfile:///D:/abc/SelectmultiboxDemo.html
+2017-11-27 14:58:02,144Execute script:listBoxoperations
+2017-11-27 14:58:02,146start execute steps
+2017-11-27 14:58:02,398step count:2
+2017-11-27 14:58:02,398-----start step:1-------
+2017-11-27 14:58:02,687Desc:Searching for listBox
+2017-11-27 14:58:02,835keyword1:searchListBox
+2017-11-27 14:58:02,963keyword2://select[@id='mtr']
+2017-11-27 14:58:03,076keyword3:idly
+2017-11-27 14:58:03,117start-executeKeyword
+2017-11-27 14:58:03,117searching idly in listbox
+2017-11-27 14:58:03,131searching  idlyin list box ://select[@id='mtr']
+2017-11-27 14:58:03,426comparing with :idly
+2017-11-27 14:58:03,427PASS: Option found in listbox
+2017-11-27 14:58:03,427End-ExecuteKeyword
+2017-11-27 14:58:03,443same page no navigation
+2017-11-27 14:58:03,443end execute steps
+2017-11-27 14:58:03,443----EndStep1-----------
+2017-11-27 14:58:03,444-----start step:2-------
+2017-11-27 14:58:03,559Desc:checking is list box sorted
+2017-11-27 14:58:03,701keyword1:isListBoxSorted
+2017-11-27 14:58:03,807keyword2://select[@id='mtr']
+2017-11-27 14:58:03,903keyword3:
+2017-11-27 14:58:03,922start-executeKeyword
+2017-11-27 14:58:03,922Checking list box is sorted or not
+2017-11-27 14:58:03,922checking the listbox is sorted
+2017-11-27 14:58:04,483FAIL: List box is not in sorted order
+2017-11-27 14:58:04,484Script is FAILEDlistBoxoperations
+2017-11-27 14:58:04,489Taking Screenshot:./photo/ForFailure/listBoxoperations_27-Nov-17_02-58-04.png
+2017-11-27 14:58:05,024Quit the Browser
+2017-11-27 14:58:05,962----------------------------------------
+2017-11-27 14:58:05,963Total PASS:0
+2017-11-27 14:58:05,963Total FAIL:1
+2017-11-27 14:58:05,963TOtal Scripts Executed:1
+2017-11-27 14:58:05,964----------------------------------------------------------
+2017-11-27 14:58:06,813Suite EXecution Completed
+2017-11-28 15:05:11,339set the path of Driverexecutable
+2017-11-28 15:05:11,386Suite Execution Started
+2017-11-28 15:05:12,417script count:4
+2017-11-28 15:05:12,496script:validLoginExecute:yes
+2017-11-28 15:05:12,496open Chrome Browser
+2017-11-28 15:05:16,487set ITO:10Sec
+2017-11-28 15:05:16,519Enter the urlhttp://localhost:8080/app/admin/
+2017-11-28 15:05:17,677Execute script:validLogin
+2017-11-28 15:05:17,677start execute steps
+2017-11-28 15:05:17,738step count:5
+2017-11-28 15:05:17,738-----start step:1-------
+2017-11-28 15:05:17,766Desc:enter valid  UserName 
+2017-11-28 15:05:17,870keyword1:enter
+2017-11-28 15:05:17,894keyword2://input[@id='input-username']
+2017-11-28 15:05:17,922keyword3:admin
+2017-11-28 15:05:17,938start-executeKeyword
+2017-11-28 15:05:18,094End-ExecuteKeyword
+2017-11-28 15:05:18,106same page no navigation
+2017-11-28 15:05:18,106end execute steps
+2017-11-28 15:05:18,106----EndStep1-----------
+2017-11-28 15:05:18,106-----start step:2-------
+2017-11-28 15:05:18,130Desc:enter valid password
+2017-11-28 15:05:18,154keyword1:enter
+2017-11-28 15:05:18,178keyword2://input[@id='input-password']
+2017-11-28 15:05:18,202keyword3:admin1
+2017-11-28 15:05:18,214start-executeKeyword
+2017-11-28 15:05:18,317End-ExecuteKeyword
+2017-11-28 15:05:18,325same page no navigation
+2017-11-28 15:05:18,325end execute steps
+2017-11-28 15:05:18,325----EndStep2-----------
+2017-11-28 15:05:18,325-----start step:3-------
+2017-11-28 15:05:18,345Desc:click on login 
+2017-11-28 15:05:18,385keyword1:click
+2017-11-28 15:05:18,409keyword2://button[.='Login']
+2017-11-28 15:05:18,441keyword3:
+2017-11-28 15:05:18,477start-executeKeyword
+2017-11-28 15:05:18,781End-ExecuteKeyword
+2017-11-28 15:05:18,790Diff page so taking screen shot
+2017-11-28 15:05:18,794Taking Screenshot:./photo/ForEachPage/validLogin_28-Nov-17_03-05-18.png
+2017-11-28 15:05:19,329end execute steps
+2017-11-28 15:05:19,329----EndStep3-----------
+2017-11-28 15:05:19,329-----start step:4-------
+2017-11-28 15:05:19,345Desc:click admin
+2017-11-28 15:05:19,364keyword1:click
+2017-11-28 15:05:19,380keyword2://a[.='admin']
+2017-11-28 15:05:19,396keyword3:
+2017-11-28 15:05:19,411start-executeKeyword
+2017-11-28 15:05:19,529End-ExecuteKeyword
+2017-11-28 15:05:19,541same page no navigation
+2017-11-28 15:05:19,541end execute steps
+2017-11-28 15:05:19,541----EndStep4-----------
+2017-11-28 15:05:19,541-----start step:5-------
+2017-11-28 15:05:19,557Desc:click logout
+2017-11-28 15:05:19,573keyword1:click
+2017-11-28 15:05:19,588keyword2://a[contains(.,'Logout')]
+2017-11-28 15:05:19,604keyword3:
+2017-11-28 15:05:19,635start-executeKeyword
+2017-11-28 15:05:19,900End-ExecuteKeyword
+2017-11-28 15:05:19,905Diff page so taking screen shot
+2017-11-28 15:05:19,905Taking Screenshot:./photo/ForEachPage/validLogin_28-Nov-17_03-05-19.png
+2017-11-28 15:05:20,238end execute steps
+2017-11-28 15:05:20,238----EndStep5-----------
+2017-11-28 15:05:20,238Script is PASSED:validLogin
+2017-11-28 15:05:20,238Quit the Browser
+2017-11-28 15:10:06,109set the path of Driverexecutable
+2017-11-28 15:10:06,125Suite Execution Started
+2017-11-28 15:10:07,110script count:1
+2017-11-28 15:10:07,189script:validLoginExecute:yes
+2017-11-28 15:10:07,189open Chrome Browser
+2017-11-28 15:10:10,223set ITO:10Sec
+2017-11-28 15:10:10,239Enter the urlhttp://localhost:8080/app/admin/
+2017-11-28 15:10:11,914Execute script:validLogin
+2017-11-28 15:10:11,914start execute steps
+2017-11-28 15:10:11,963step count:5
+2017-11-28 15:10:11,963-----start step:1-------
+2017-11-28 15:10:11,995Desc:enter valid  UserName 
+2017-11-28 15:10:12,091keyword1:enter
+2017-11-28 15:10:12,119keyword2://input[@id='input-username']
+2017-11-28 15:10:12,147keyword3:admin
+2017-11-28 15:10:12,159start-executeKeyword
+2017-11-28 15:10:12,327End-ExecuteKeyword
+2017-11-28 15:10:12,335same page no navigation
+2017-11-28 15:10:12,335end execute steps
+2017-11-28 15:10:12,335----EndStep1-----------
+2017-11-28 15:10:12,335-----start step:2-------
+2017-11-28 15:10:12,359Desc:enter valid password
+2017-11-28 15:10:12,387keyword1:enter
+2017-11-28 15:10:12,439keyword2://input[@id='input-password']
+2017-11-28 15:10:12,479keyword3:admin1
+2017-11-28 15:10:12,551start-executeKeyword
+2017-11-28 15:10:12,645End-ExecuteKeyword
+2017-11-28 15:10:12,657same page no navigation
+2017-11-28 15:10:12,657end execute steps
+2017-11-28 15:10:12,657----EndStep2-----------
+2017-11-28 15:10:12,657-----start step:3-------
+2017-11-28 15:10:12,701Desc:click on login 
+2017-11-28 15:10:12,793keyword1:click
+2017-11-28 15:10:12,829keyword2://button[.='Login']
+2017-11-28 15:10:12,969keyword3:
+2017-11-28 15:10:12,978start-executeKeyword
+2017-11-28 15:10:13,290End-ExecuteKeyword
+2017-11-28 15:10:13,302Diff page so taking screen shot
+2017-11-28 15:10:13,306Taking Screenshot:./photo/ForEachPage/validLogin_28-Nov-17_03-10-13.png
+2017-11-28 15:10:13,724end execute steps
+2017-11-28 15:10:13,724----EndStep3-----------
+2017-11-28 15:10:13,724-----start step:4-------
+2017-11-28 15:10:13,740Desc:click admin
+2017-11-28 15:10:13,755keyword1:click
+2017-11-28 15:10:13,771keyword2://a[.='admin']
+2017-11-28 15:10:13,802keyword3:
+2017-11-28 15:10:13,818start-executeKeyword
+2017-11-28 15:10:13,935End-ExecuteKeyword
+2017-11-28 15:10:13,939same page no navigation
+2017-11-28 15:10:13,939end execute steps
+2017-11-28 15:10:13,943----EndStep4-----------
+2017-11-28 15:10:13,943-----start step:5-------
+2017-11-28 15:10:13,959Desc:click logout
+2017-11-28 15:10:13,975keyword1:click
+2017-11-28 15:10:13,984keyword2://a[contains(.,'Logout')]
+2017-11-28 15:10:14,015keyword3:
+2017-11-28 15:10:14,015start-executeKeyword
+2017-11-28 15:10:14,233End-ExecuteKeyword
+2017-11-28 15:10:14,245Diff page so taking screen shot
+2017-11-28 15:10:14,245Taking Screenshot:./photo/ForEachPage/validLogin_28-Nov-17_03-10-14.png
+2017-11-28 15:10:14,567end execute steps
+2017-11-28 15:10:14,567----EndStep5-----------
+2017-11-28 15:10:14,567Script is PASSED:validLogin
+2017-11-28 15:10:14,567Quit the Browser
+2017-11-28 15:10:15,411----------------------------------------
+2017-11-28 15:10:15,411Total PASS:1
+2017-11-28 15:10:15,411Total FAIL:0
+2017-11-28 15:10:15,411TOtal Scripts Executed:1
+2017-11-28 15:10:15,411----------------------------------------------------------
+2017-11-28 15:10:15,990Suite EXecution Completed
+2017-11-28 15:12:06,610set the path of Driverexecutable
+2017-11-28 15:12:06,610Suite Execution Started
+2017-11-28 15:12:07,360script count:1
+2017-11-28 15:12:07,438script:validLoginExecute:yes
+2017-11-28 15:12:07,438open Chrome Browser
+2017-11-28 15:12:11,225set ITO:10Sec
+2017-11-28 15:12:11,225Enter the urlhttp://localhost:8080/app/admin/
+2017-11-28 15:12:12,550Execute script:validLogin
+2017-11-28 15:12:12,554start execute steps
+2017-11-28 15:12:12,598step count:5
+2017-11-28 15:12:12,598-----start step:1-------
+2017-11-28 15:12:12,626Desc:enter valid  UserName 
+2017-11-28 15:12:12,726keyword1:enter
+2017-11-28 15:12:12,758keyword2://input[@id='input-username']
+2017-11-28 15:12:12,786keyword3:admin
+2017-11-28 15:12:12,798start-executeKeyword
+2017-11-28 15:12:12,918End-ExecuteKeyword
+2017-11-28 15:12:12,926same page no navigation
+2017-11-28 15:12:12,926end execute steps
+2017-11-28 15:12:12,926----EndStep1-----------
+2017-11-28 15:12:12,926-----start step:2-------
+2017-11-28 15:12:12,950Desc:enter valid password
+2017-11-28 15:12:12,982keyword1:enter
+2017-11-28 15:12:13,006keyword2://input[@id='input-password']
+2017-11-28 15:12:13,034keyword3:admin1
+2017-11-28 15:12:13,054start-executeKeyword
+2017-11-28 15:12:13,166End-ExecuteKeyword
+2017-11-28 15:12:13,174same page no navigation
+2017-11-28 15:12:13,174end execute steps
+2017-11-28 15:12:13,174----EndStep2-----------
+2017-11-28 15:12:13,174-----start step:3-------
+2017-11-28 15:12:13,202Desc:click on login 
+2017-11-28 15:12:13,230keyword1:click
+2017-11-28 15:12:13,258keyword2://button[.='Login']
+2017-11-28 15:12:13,282keyword3:
+2017-11-28 15:12:13,314start-executeKeyword
+2017-11-28 15:12:13,616End-ExecuteKeyword
+2017-11-28 15:12:13,624Diff page so taking screen shot
+2017-11-28 15:12:13,628Taking Screenshot:./photo/ForEachPage/validLogin_28-Nov-17_03-12-13.png
+2017-11-28 15:12:14,068end execute steps
+2017-11-28 15:12:14,068----EndStep3-----------
+2017-11-28 15:12:14,068-----start step:4-------
+2017-11-28 15:12:14,083Desc:click admin
+2017-11-28 15:12:14,130keyword1:click
+2017-11-28 15:12:14,146keyword2://a[.='admin']
+2017-11-28 15:12:14,162keyword3:
+2017-11-28 15:12:14,177start-executeKeyword
+2017-11-28 15:12:14,326End-ExecuteKeyword
+2017-11-28 15:12:14,350same page no navigation
+2017-11-28 15:12:14,350end execute steps
+2017-11-28 15:12:14,350----EndStep4-----------
+2017-11-28 15:12:14,350-----start step:5-------
+2017-11-28 15:12:14,401Desc:click logout
+2017-11-28 15:12:14,432keyword1:click
+2017-11-28 15:12:14,448keyword2://a[contains(.,'Logout')]
+2017-11-28 15:12:14,479keyword3:
+2017-11-28 15:12:14,495start-executeKeyword
+2017-11-28 15:12:14,697End-ExecuteKeyword
+2017-11-28 15:12:14,709Diff page so taking screen shot
+2017-11-28 15:12:14,709Taking Screenshot:./photo/ForEachPage/validLogin_28-Nov-17_03-12-14.png
+2017-11-28 15:12:15,050end execute steps
+2017-11-28 15:12:15,050----EndStep5-----------
+2017-11-28 15:12:15,050Script is PASSED:validLogin
+2017-11-28 15:12:15,050Quit the Browser
+2017-11-28 15:12:15,785----------------------------------------
+2017-11-28 15:12:15,785Total PASS:1
+2017-11-28 15:12:15,785Total FAIL:0
+2017-11-28 15:12:15,785TOtal Scripts Executed:1
+2017-11-28 15:12:15,785----------------------------------------------------------
+2017-11-28 15:12:16,082Suite EXecution Completed
+2017-11-28 15:14:02,843set the path of Driverexecutable
+2017-11-28 15:14:02,843Suite Execution Started
+2017-11-28 15:14:03,577script count:1
+2017-11-28 15:14:03,656script:validLoginExecute:yes
+2017-11-28 15:14:03,656open Chrome Browser
+2017-11-28 15:14:06,736set ITO:10Sec
+2017-11-28 15:14:06,736Enter the urlhttp://localhost:8080/app/admin/
+2017-11-28 15:14:08,617Execute script:validLogin
+2017-11-28 15:14:08,617start execute steps
+2017-11-28 15:14:08,685step count:5
+2017-11-28 15:14:08,685-----start step:1-------
+2017-11-28 15:14:08,725Desc:enter valid  UserName 
+2017-11-28 15:14:08,821keyword1:enter
+2017-11-28 15:14:08,845keyword2://input[@id='input-username']
+2017-11-28 15:14:08,873keyword3:admin
+2017-11-28 15:14:08,885start-executeKeyword
+2017-11-28 15:14:09,001End-ExecuteKeyword
+2017-11-28 15:14:09,009same page no navigation
+2017-11-28 15:14:09,009end execute steps
+2017-11-28 15:14:09,009----EndStep1-----------
+2017-11-28 15:14:09,009-----start step:2-------
+2017-11-28 15:14:09,033Desc:enter valid password
+2017-11-28 15:14:09,053keyword1:enter
+2017-11-28 15:14:09,081keyword2://input[@id='input-password']
+2017-11-28 15:14:09,109keyword3:admin1
+2017-11-28 15:14:09,125start-executeKeyword
+2017-11-28 15:14:09,225End-ExecuteKeyword
+2017-11-28 15:14:09,233same page no navigation
+2017-11-28 15:14:09,233end execute steps
+2017-11-28 15:14:09,233----EndStep2-----------
+2017-11-28 15:14:09,233-----start step:3-------
+2017-11-28 15:14:09,261Desc:click on login 
+2017-11-28 15:14:09,313keyword1:click
+2017-11-28 15:14:09,345keyword2://button[.='Login']
+2017-11-28 15:14:09,385keyword3:
+2017-11-28 15:14:09,401start-executeKeyword
+2017-11-28 15:14:09,741End-ExecuteKeyword
+2017-11-28 15:14:09,749Diff page so taking screen shot
+2017-11-28 15:14:09,749Taking Screenshot:./photo/ForEachPage/validLogin_28-Nov-17_03-14-09.png
+2017-11-28 15:14:10,185end execute steps
+2017-11-28 15:14:10,185----EndStep3-----------
+2017-11-28 15:14:10,185-----start step:4-------
+2017-11-28 15:14:10,216Desc:click admin
+2017-11-28 15:14:10,232keyword1:click
+2017-11-28 15:14:10,247keyword2://a[.='admin']
+2017-11-28 15:14:10,263keyword3:
+2017-11-28 15:14:10,263start-executeKeyword
+2017-11-28 15:14:10,416End-ExecuteKeyword
+2017-11-28 15:14:10,436same page no navigation
+2017-11-28 15:14:10,436end execute steps
+2017-11-28 15:14:10,436----EndStep4-----------
+2017-11-28 15:14:10,436-----start step:5-------
+2017-11-28 15:14:10,464Desc:click logout
+2017-11-28 15:14:10,479keyword1:click
+2017-11-28 15:14:10,495keyword2://a[contains(.,'Logout')]
+2017-11-28 15:14:10,526keyword3:
+2017-11-28 15:14:10,542start-executeKeyword
+2017-11-28 15:14:10,760End-ExecuteKeyword
+2017-11-28 15:14:10,768Diff page so taking screen shot
+2017-11-28 15:14:10,768Taking Screenshot:./photo/ForEachPage/validLogin_28-Nov-17_03-14-10.png
+2017-11-28 15:14:11,107end execute steps
+2017-11-28 15:14:11,107----EndStep5-----------
+2017-11-28 15:14:11,107Script is PASSED:validLogin
+2017-11-28 15:14:11,107Quit the Browser
+2017-11-28 15:14:11,888----------------------------------------
+2017-11-28 15:14:11,888Total PASS:1
+2017-11-28 15:14:11,888Total FAIL:0
+2017-11-28 15:14:11,888TOtal Scripts Executed:1
+2017-11-28 15:14:11,888----------------------------------------------------------
+2017-11-28 15:14:12,185Suite EXecution Completed
+2017-11-29 15:17:47,659set the path of Driverexecutable
+2017-11-29 15:17:47,737Suite Execution Started
+2017-11-29 15:17:48,664script count:1
+2017-11-29 15:17:48,744script:validLoginExecute:yes
+2017-11-29 15:17:48,744open Chrome Browser
+2017-11-29 15:17:51,869set ITO:10Sec
+2017-11-29 15:17:51,886Enter the urlhttp://localhost:8080/app/admin/
+2017-11-29 15:17:53,751Execute script:validLogin
+2017-11-29 15:17:53,751start execute steps
+2017-11-29 15:17:53,972step count:13
+2017-11-29 15:17:53,976-----start step:1-------
+2017-11-29 15:17:54,092Desc:Enter 'admin' in UN TF
+2017-11-29 15:17:54,132keyword1:enter
+2017-11-29 15:17:54,156keyword2://input[@id='input-username']
+2017-11-29 15:17:54,196keyword3:admin
+2017-11-29 15:17:54,204start-executeKeyword
+2017-11-29 15:17:54,306End-ExecuteKeyword
+2017-11-29 15:17:54,314same page no navigation
+2017-11-29 15:17:54,314end execute steps
+2017-11-29 15:17:54,314----EndStep1-----------
+2017-11-29 15:17:54,314-----start step:2-------
+2017-11-29 15:17:54,342Desc:Enter 'qspiders' in PWD TF
+2017-11-29 15:17:54,354keyword1:enter
+2017-11-29 15:17:54,385keyword2://input[@id='input-password']
+2017-11-29 15:17:54,417keyword3:admin1
+2017-11-29 15:17:54,417start-executeKeyword
+2017-11-29 15:17:54,535End-ExecuteKeyword
+2017-11-29 15:17:54,543same page no navigation
+2017-11-29 15:17:54,543end execute steps
+2017-11-29 15:17:54,543----EndStep2-----------
+2017-11-29 15:17:54,543-----start step:3-------
+2017-11-29 15:17:54,567Desc:Click Login
+2017-11-29 15:17:54,591keyword1:click
+2017-11-29 15:17:54,619keyword2://button[.='Login']
+2017-11-29 15:17:54,667keyword3:
+2017-11-29 15:17:54,703start-executeKeyword
+2017-11-29 15:17:55,031End-ExecuteKeyword
+2017-11-29 15:17:55,040Diff page so taking screen shot
+2017-11-29 15:17:55,040Taking Screenshot:./photo/ForEachPage/validLogin_29-Nov-17_03-17-55.png
+2017-11-29 15:17:55,497end execute steps
+2017-11-29 15:17:55,497----EndStep3-----------
+2017-11-29 15:17:55,497-----start step:4-------
+2017-11-29 15:17:55,543Desc:Click Menu Button
+2017-11-29 15:17:55,559keyword1:click
+2017-11-29 15:17:55,575keyword2://img[@id='button-menu']
+2017-11-29 15:17:55,590keyword3:
+2017-11-29 15:17:55,606start-executeKeyword
+2017-11-29 15:17:55,712End-ExecuteKeyword
+2017-11-29 15:17:55,744same page no navigation
+2017-11-29 15:17:55,744end execute steps
+2017-11-29 15:17:55,744----EndStep4-----------
+2017-11-29 15:17:55,744-----start step:5-------
+2017-11-29 15:17:55,764Desc:Click Billing
+2017-11-29 15:17:55,788keyword1:click
+2017-11-29 15:17:55,816keyword2://span[.='Billing']
+2017-11-29 15:17:55,856keyword3:
+2017-11-29 15:17:55,872start-executeKeyword
+2017-11-29 15:17:55,944Script is FAILEDvalidLogin
+2017-11-29 15:17:55,948Taking Screenshot:./photo/ForFailure/validLogin_29-Nov-17_03-17-55.png
+2017-11-29 15:17:56,287Quit the Browser
+2017-11-29 15:17:57,121----------------------------------------
+2017-11-29 15:17:57,121Total PASS:0
+2017-11-29 15:17:57,121Total FAIL:1
+2017-11-29 15:17:57,121TOtal Scripts Executed:1
+2017-11-29 15:17:57,121----------------------------------------------------------
+2017-11-29 15:17:57,622Suite EXecution Completed
+2017-11-29 15:23:23,769set the path of Driverexecutable
+2017-11-29 15:23:23,769Suite Execution Started
+2017-11-29 15:23:24,526script count:1
+2017-11-29 15:23:24,604script:validLoginExecute:yes
+2017-11-29 15:23:24,604open Chrome Browser
+2017-11-29 15:23:27,980set ITO:10Sec
+2017-11-29 15:23:27,996Enter the urlhttp://localhost:8080/app/admin/
+2017-11-29 15:23:29,338Execute script:validLogin
+2017-11-29 15:23:29,338start execute steps
+2017-11-29 15:23:29,415step count:13
+2017-11-29 15:23:29,415-----start step:1-------
+2017-11-29 15:23:29,532Desc:Enter 'admin' in UN TF
+2017-11-29 15:23:29,568keyword1:enter
+2017-11-29 15:23:29,600keyword2://input[@id='input-username']
+2017-11-29 15:23:29,636keyword3:admin
+2017-11-29 15:23:29,648start-executeKeyword
+2017-11-29 15:23:29,772End-ExecuteKeyword
+2017-11-29 15:23:29,776same page no navigation
+2017-11-29 15:23:29,776end execute steps
+2017-11-29 15:23:29,776----EndStep1-----------
+2017-11-29 15:23:29,776-----start step:2-------
+2017-11-29 15:23:29,816Desc:Enter 'qspiders' in PWD TF
+2017-11-29 15:23:29,860keyword1:enter
+2017-11-29 15:23:29,888keyword2://input[@id='input-password']
+2017-11-29 15:23:29,912keyword3:admin1
+2017-11-29 15:23:29,940start-executeKeyword
+2017-11-29 15:23:30,023End-ExecuteKeyword
+2017-11-29 15:23:30,035same page no navigation
+2017-11-29 15:23:30,035end execute steps
+2017-11-29 15:23:30,035----EndStep2-----------
+2017-11-29 15:23:30,035-----start step:3-------
+2017-11-29 15:23:30,071Desc:Click Login
+2017-11-29 15:23:30,103keyword1:click
+2017-11-29 15:23:30,131keyword2://button[.='Login']
+2017-11-29 15:23:30,183keyword3:
+2017-11-29 15:23:30,203start-executeKeyword
+2017-11-29 15:23:30,551End-ExecuteKeyword
+2017-11-29 15:23:30,568Diff page so taking screen shot
+2017-11-29 15:23:30,568Taking Screenshot:./photo/ForEachPage/validLogin_29-Nov-17_03-23-30.png
+2017-11-29 15:23:31,011end execute steps
+2017-11-29 15:23:31,011----EndStep3-----------
+2017-11-29 15:23:31,011-----start step:4-------
+2017-11-29 15:23:31,042Desc:Click Menu Button
+2017-11-29 15:23:31,082keyword1:click
+2017-11-29 15:23:31,098keyword2://img[@id='button-menu']
+2017-11-29 15:23:31,113keyword3:
+2017-11-29 15:23:31,129start-executeKeyword
+2017-11-29 15:23:31,254End-ExecuteKeyword
+2017-11-29 15:23:31,270same page no navigation
+2017-11-29 15:23:31,270end execute steps
+2017-11-29 15:23:31,270----EndStep4-----------
+2017-11-29 15:23:31,274-----start step:5-------
+2017-11-29 15:23:31,298Desc:Click Billing
+2017-11-29 15:23:31,342keyword1:click
+2017-11-29 15:23:31,362keyword2://a[@class='parent'])[3]
+2017-11-29 15:23:31,390keyword3:
+2017-11-29 15:23:31,410start-executeKeyword
+2017-11-29 15:23:31,458Script is FAILEDvalidLogin
+2017-11-29 15:23:31,462Taking Screenshot:./photo/ForFailure/validLogin_29-Nov-17_03-23-31.png
+2017-11-29 15:23:31,759Quit the Browser
+2017-11-29 15:23:32,590----------------------------------------
+2017-11-29 15:23:32,590Total PASS:0
+2017-11-29 15:23:32,590Total FAIL:1
+2017-11-29 15:23:32,590TOtal Scripts Executed:1
+2017-11-29 15:23:32,590----------------------------------------------------------
+2017-11-29 15:23:32,906Suite EXecution Completed
+2017-11-29 15:51:19,860set the path of Driverexecutable
+2017-11-29 15:51:19,860Suite Execution Started
+2017-11-29 15:51:20,691script count:1
+2017-11-29 15:51:20,782script:validLoginExecute:yes
+2017-11-29 15:51:20,782open Chrome Browser
+2017-11-29 15:51:24,093set ITO:10Sec
+2017-11-29 15:51:24,117Enter the urlhttp://localhost:8080/app/admin/
+2017-11-29 15:51:25,768Execute script:validLogin
+2017-11-29 15:51:25,768start execute steps
+2017-11-29 15:51:25,857step count:14
+2017-11-29 15:51:25,857-----start step:1-------
+2017-11-29 15:51:25,961Desc:Enter 'admin' in UN TF
+2017-11-29 15:51:26,005keyword1:enter
+2017-11-29 15:51:26,053keyword2://input[@id='input-username']
+2017-11-29 15:51:26,089keyword3:admin
+2017-11-29 15:51:26,101start-executeKeyword
+2017-11-29 15:51:26,228End-ExecuteKeyword
+2017-11-29 15:51:26,232same page no navigation
+2017-11-29 15:51:26,236end execute steps
+2017-11-29 15:51:26,236----EndStep1-----------
+2017-11-29 15:51:26,236-----start step:2-------
+2017-11-29 15:51:26,260Desc:Enter 'qspiders' in PWD TF
+2017-11-29 15:51:26,288keyword1:enter
+2017-11-29 15:51:26,352keyword2://input[@id='input-password']
+2017-11-29 15:51:26,380keyword3:admin1
+2017-11-29 15:51:26,388start-executeKeyword
+2017-11-29 15:51:26,483End-ExecuteKeyword
+2017-11-29 15:51:26,491same page no navigation
+2017-11-29 15:51:26,491end execute steps
+2017-11-29 15:51:26,491----EndStep2-----------
+2017-11-29 15:51:26,491-----start step:3-------
+2017-11-29 15:51:26,519Desc:Click Login
+2017-11-29 15:51:26,551keyword1:click
+2017-11-29 15:51:26,579keyword2://button[.='Login']
+2017-11-29 15:51:26,619keyword3:
+2017-11-29 15:51:26,691start-executeKeyword
+2017-11-29 15:51:26,991End-ExecuteKeyword
+2017-11-29 15:51:27,000Diff page so taking screen shot
+2017-11-29 15:51:27,004Taking Screenshot:./photo/ForEachPage/validLogin_29-Nov-17_03-51-27.png
+2017-11-29 15:51:27,416end execute steps
+2017-11-29 15:51:27,416----EndStep3-----------
+2017-11-29 15:51:27,416-----start step:4-------
+2017-11-29 15:51:27,431Desc:Click Menu Button
+2017-11-29 15:51:27,459keyword1:click
+2017-11-29 15:51:27,475keyword2://img[@id='button-menu']
+2017-11-29 15:51:27,490keyword3:
+2017-11-29 15:51:27,506start-executeKeyword
+2017-11-29 15:51:27,616End-ExecuteKeyword
+2017-11-29 15:51:27,628same page no navigation
+2017-11-29 15:51:27,628end execute steps
+2017-11-29 15:51:27,628----EndStep4-----------
+2017-11-29 15:51:27,628-----start step:5-------
+2017-11-29 15:51:27,656Desc:Click Billing
+2017-11-29 15:51:27,708keyword1:click
+2017-11-29 15:51:27,728keyword2://a[@class='parent'])[3]
+2017-11-29 15:51:27,752keyword3:
+2017-11-29 15:51:27,764start-executeKeyword
+2017-11-29 15:51:27,812Script is FAILEDvalidLogin
+2017-11-29 15:51:27,816Taking Screenshot:./photo/ForFailure/validLogin_29-Nov-17_03-51-27.png
+2017-11-29 15:51:28,197Quit the Browser
+2017-11-29 15:51:29,000----------------------------------------
+2017-11-29 15:51:29,000Total PASS:0
+2017-11-29 15:51:29,000Total FAIL:1
+2017-11-29 15:51:29,000TOtal Scripts Executed:1
+2017-11-29 15:51:29,000----------------------------------------------------------
+2017-11-29 15:51:29,307Suite EXecution Completed
+2017-11-29 15:58:18,525set the path of Driverexecutable
+2017-11-29 15:58:18,529Suite Execution Started
+2017-11-29 15:58:19,276script count:1
+2017-11-29 15:58:19,355script:validLoginExecute:yes
+2017-11-29 15:58:19,355open Chrome Browser
+2017-11-29 15:58:22,419set ITO:10Sec
+2017-11-29 15:58:22,437Enter the urlhttp://localhost:8080/app/admin/
+2017-11-29 15:58:24,139Execute script:validLogin
+2017-11-29 15:58:24,143start execute steps
+2017-11-29 15:58:24,224step count:14
+2017-11-29 15:58:24,224-----start step:1-------
+2017-11-29 15:58:24,332Desc:Enter 'admin' in UN TF
+2017-11-29 15:58:24,372keyword1:enter
+2017-11-29 15:58:24,408keyword2://input[@id='input-username']
+2017-11-29 15:58:24,444keyword3:admin
+2017-11-29 15:58:24,460start-executeKeyword
+2017-11-29 15:58:24,580End-ExecuteKeyword
+2017-11-29 15:58:24,584same page no navigation
+2017-11-29 15:58:24,584end execute steps
+2017-11-29 15:58:24,584----EndStep1-----------
+2017-11-29 15:58:24,584-----start step:2-------
+2017-11-29 15:58:24,616Desc:Enter 'qspiders' in PWD TF
+2017-11-29 15:58:24,644keyword1:enter
+2017-11-29 15:58:24,676keyword2://input[@id='input-password']
+2017-11-29 15:58:24,720keyword3:admin1
+2017-11-29 15:58:24,732start-executeKeyword
+2017-11-29 15:58:24,835End-ExecuteKeyword
+2017-11-29 15:58:24,843same page no navigation
+2017-11-29 15:58:24,843end execute steps
+2017-11-29 15:58:24,843----EndStep2-----------
+2017-11-29 15:58:24,843-----start step:3-------
+2017-11-29 15:58:24,883Desc:Click Login
+2017-11-29 15:58:24,919keyword1:click
+2017-11-29 15:58:24,963keyword2://button[.='Login']
+2017-11-29 15:58:24,999keyword3:
+2017-11-29 15:58:25,011start-executeKeyword
+2017-11-29 15:58:25,363End-ExecuteKeyword
+2017-11-29 15:58:25,372Diff page so taking screen shot
+2017-11-29 15:58:25,372Taking Screenshot:./photo/ForEachPage/validLogin_29-Nov-17_03-58-25.png
+2017-11-29 15:58:25,846end execute steps
+2017-11-29 15:58:25,846----EndStep3-----------
+2017-11-29 15:58:25,846-----start step:4-------
+2017-11-29 15:58:25,866Desc:Click Menu Button
+2017-11-29 15:58:25,881keyword1:click
+2017-11-29 15:58:25,912keyword2://img[@id='button-menu']
+2017-11-29 15:58:25,928keyword3:
+2017-11-29 15:58:25,936start-executeKeyword
+2017-11-29 15:58:26,022End-ExecuteKeyword
+2017-11-29 15:58:26,034same page no navigation
+2017-11-29 15:58:26,034end execute steps
+2017-11-29 15:58:26,034----EndStep4-----------
+2017-11-29 15:58:26,034-----start step:5-------
+2017-11-29 15:58:26,058Desc:Click Billing
+2017-11-29 15:58:26,086keyword1:click
+2017-11-29 15:58:26,106keyword2://a[@class='parent'])[3]
+2017-11-29 15:58:26,142keyword3:
+2017-11-29 15:58:26,150start-executeKeyword
+2017-11-29 15:58:26,206Script is FAILEDvalidLogin
+2017-11-29 15:58:26,210Taking Screenshot:./photo/ForFailure/validLogin_29-Nov-17_03-58-26.png
+2017-11-29 15:58:26,548Quit the Browser
+2017-11-29 15:58:27,353----------------------------------------
+2017-11-29 15:58:27,353Total PASS:0
+2017-11-29 15:58:27,353Total FAIL:1
+2017-11-29 15:58:27,353TOtal Scripts Executed:1
+2017-11-29 15:58:27,353----------------------------------------------------------
+2017-11-29 15:58:27,660Suite EXecution Completed
+2017-11-29 16:00:19,954set the path of Driverexecutable
+2017-11-29 16:00:19,954Suite Execution Started
+2017-11-29 16:00:20,892script count:1
+2017-11-29 16:00:20,969script:validLoginExecute:yes
+2017-11-29 16:00:20,969open Chrome Browser
+2017-11-29 16:00:24,002set ITO:10Sec
+2017-11-29 16:00:24,002Enter the urlhttp://localhost:8080/app/admin/
+2017-11-29 16:00:25,863Execute script:validLogin
+2017-11-29 16:00:25,863start execute steps
+2017-11-29 16:00:25,946step count:14
+2017-11-29 16:00:25,946-----start step:1-------
+2017-11-29 16:00:26,050Desc:Enter 'admin' in UN TF
+2017-11-29 16:00:26,094keyword1:enter
+2017-11-29 16:00:26,130keyword2://input[@id='input-username']
+2017-11-29 16:00:26,170keyword3:admin
+2017-11-29 16:00:26,182start-executeKeyword
+2017-11-29 16:00:26,346End-ExecuteKeyword
+2017-11-29 16:00:26,354same page no navigation
+2017-11-29 16:00:26,354end execute steps
+2017-11-29 16:00:26,354----EndStep1-----------
+2017-11-29 16:00:26,354-----start step:2-------
+2017-11-29 16:00:26,382Desc:Enter 'qspiders' in PWD TF
+2017-11-29 16:00:26,430keyword1:enter
+2017-11-29 16:00:26,554keyword2://input[@id='input-password']
+2017-11-29 16:00:26,622keyword3:admin1
+2017-11-29 16:00:26,638start-executeKeyword
+2017-11-29 16:00:26,761End-ExecuteKeyword
+2017-11-29 16:00:26,773same page no navigation
+2017-11-29 16:00:26,773end execute steps
+2017-11-29 16:00:26,773----EndStep2-----------
+2017-11-29 16:00:26,773-----start step:3-------
+2017-11-29 16:00:26,809Desc:Click Login
+2017-11-29 16:00:26,865keyword1:click
+2017-11-29 16:00:26,907keyword2://button[.='Login']
+2017-11-29 16:00:26,963keyword3:
+2017-11-29 16:00:27,235start-executeKeyword
+2017-11-29 16:00:27,582End-ExecuteKeyword
+2017-11-29 16:00:27,594Diff page so taking screen shot
+2017-11-29 16:00:27,594Taking Screenshot:./photo/ForEachPage/validLogin_29-Nov-17_04-00-27.png
+2017-11-29 16:00:28,026end execute steps
+2017-11-29 16:00:28,026----EndStep3-----------
+2017-11-29 16:00:28,042-----start step:4-------
+2017-11-29 16:00:28,060Desc:Click Menu Button
+2017-11-29 16:00:28,076keyword1:click
+2017-11-29 16:00:28,107keyword2://img[@id='button-menu']
+2017-11-29 16:00:28,131keyword3:
+2017-11-29 16:00:28,139start-executeKeyword
+2017-11-29 16:00:28,237End-ExecuteKeyword
+2017-11-29 16:00:28,249same page no navigation
+2017-11-29 16:00:28,249end execute steps
+2017-11-29 16:00:28,253----EndStep4-----------
+2017-11-29 16:00:28,253-----start step:5-------
+2017-11-29 16:00:28,273Desc:Click Billing
+2017-11-29 16:00:28,289keyword1:click
+2017-11-29 16:00:28,309keyword2://a[@class='parent'])[3]
+2017-11-29 16:00:28,337keyword3:
+2017-11-29 16:00:28,349start-executeKeyword
+2017-11-29 16:00:28,401Script is FAILEDvalidLogin
+2017-11-29 16:00:28,409Taking Screenshot:./photo/ForFailure/validLogin_29-Nov-17_04-00-28.png
+2017-11-29 16:00:28,778Quit the Browser
+2017-11-29 16:00:29,585----------------------------------------
+2017-11-29 16:00:29,585Total PASS:0
+2017-11-29 16:00:29,585Total FAIL:1
+2017-11-29 16:00:29,585TOtal Scripts Executed:1
+2017-11-29 16:00:29,585----------------------------------------------------------
+2017-11-29 16:00:29,908Suite EXecution Completed
+2017-11-29 16:02:14,405set the path of Driverexecutable
+2017-11-29 16:02:14,405Suite Execution Started
+2017-11-29 16:02:15,157script count:1
+2017-11-29 16:02:15,248script:validLoginExecute:yes
+2017-11-29 16:02:15,248open Chrome Browser
+2017-11-29 16:02:18,555set ITO:10Sec
+2017-11-29 16:02:18,572Enter the urlhttp://localhost:8080/app/admin/
+2017-11-29 16:02:20,342Execute script:validLogin
+2017-11-29 16:02:20,346start execute steps
+2017-11-29 16:02:20,451step count:14
+2017-11-29 16:02:20,451-----start step:1-------
+2017-11-29 16:02:20,567Desc:Enter 'admin' in UN TF
+2017-11-29 16:02:20,603keyword1:enter
+2017-11-29 16:02:20,631keyword2://input[@id='input-username']
+2017-11-29 16:02:20,671keyword3:admin
+2017-11-29 16:02:20,687start-executeKeyword
+2017-11-29 16:02:20,823End-ExecuteKeyword
+2017-11-29 16:02:20,827same page no navigation
+2017-11-29 16:02:20,827end execute steps
+2017-11-29 16:02:20,827----EndStep1-----------
+2017-11-29 16:02:20,827-----start step:2-------
+2017-11-29 16:02:20,859Desc:Enter 'qspiders' in PWD TF
+2017-11-29 16:02:20,887keyword1:enter
+2017-11-29 16:02:20,923keyword2://input[@id='input-password']
+2017-11-29 16:02:20,963keyword3:admin1
+2017-11-29 16:02:20,983start-executeKeyword
+2017-11-29 16:02:21,086End-ExecuteKeyword
+2017-11-29 16:02:21,094same page no navigation
+2017-11-29 16:02:21,094end execute steps
+2017-11-29 16:02:21,094----EndStep2-----------
+2017-11-29 16:02:21,094-----start step:3-------
+2017-11-29 16:02:21,122Desc:Click Login
+2017-11-29 16:02:21,146keyword1:click
+2017-11-29 16:02:21,174keyword2://button[.='Login']
+2017-11-29 16:02:21,234keyword3:
+2017-11-29 16:02:21,250start-executeKeyword
+2017-11-29 16:02:21,542End-ExecuteKeyword
+2017-11-29 16:02:21,551Diff page so taking screen shot
+2017-11-29 16:02:21,551Taking Screenshot:./photo/ForEachPage/validLogin_29-Nov-17_04-02-21.png
+2017-11-29 16:02:21,982end execute steps
+2017-11-29 16:02:21,982----EndStep3-----------
+2017-11-29 16:02:21,982-----start step:4-------
+2017-11-29 16:02:21,997Desc:Click Menu Button
+2017-11-29 16:02:22,029keyword1:click
+2017-11-29 16:02:22,044keyword2://img[@id='button-menu']
+2017-11-29 16:02:22,064keyword3:
+2017-11-29 16:02:22,079start-executeKeyword
+2017-11-29 16:02:22,178End-ExecuteKeyword
+2017-11-29 16:02:22,194same page no navigation
+2017-11-29 16:02:22,194end execute steps
+2017-11-29 16:02:22,194----EndStep4-----------
+2017-11-29 16:02:22,194-----start step:5-------
+2017-11-29 16:02:22,218Desc:Click Billing
+2017-11-29 16:02:22,242keyword1:click
+2017-11-29 16:02:22,270keyword2:(//a[@class='parent'])[3]
+2017-11-29 16:02:22,298keyword3:
+2017-11-29 16:02:22,318start-executeKeyword
+2017-11-29 16:02:22,442End-ExecuteKeyword
+2017-11-29 16:02:22,450same page no navigation
+2017-11-29 16:02:22,450end execute steps
+2017-11-29 16:02:22,450----EndStep5-----------
+2017-11-29 16:02:22,450-----start step:6-------
+2017-11-29 16:02:22,462Desc:Click Customer
+2017-11-29 16:02:22,486keyword1:click
+2017-11-29 16:02:22,514keyword2://span[.='Customers']
+2017-11-29 16:02:22,538keyword3:
+2017-11-29 16:02:22,581start-executeKeyword
+2017-11-29 16:02:22,869End-ExecuteKeyword
+2017-11-29 16:02:22,881Diff page so taking screen shot
+2017-11-29 16:02:22,881Taking Screenshot:./photo/ForEachPage/validLogin_29-Nov-17_04-02-22.png
+2017-11-29 16:02:23,260end execute steps
+2017-11-29 16:02:23,260----EndStep6-----------
+2017-11-29 16:02:23,260-----start step:7-------
+2017-11-29 16:02:23,275Desc:Click add
+2017-11-29 16:02:23,291keyword1:click
+2017-11-29 16:02:23,307keyword2://a[@data-original-title='Add']
+2017-11-29 16:02:23,326keyword3:
+2017-11-29 16:02:23,334start-executeKeyword
+2017-11-29 16:02:23,545End-ExecuteKeyword
+2017-11-29 16:02:23,581same page no navigation
+2017-11-29 16:02:23,581end execute steps
+2017-11-29 16:02:23,581----EndStep7-----------
+2017-11-29 16:02:23,581-----start step:8-------
+2017-11-29 16:02:23,602Desc:enter first name
+2017-11-29 16:02:23,626keyword1:enter
+2017-11-29 16:02:23,642keyword2://input[@name='firstname']
+2017-11-29 16:02:23,662keyword3:bhanu
+2017-11-29 16:02:23,698start-executeKeyword
+2017-11-29 16:02:23,874End-ExecuteKeyword
+2017-11-29 16:02:23,878same page no navigation
+2017-11-29 16:02:23,878end execute steps
+2017-11-29 16:02:23,878----EndStep8-----------
+2017-11-29 16:02:23,878-----start step:9-------
+2017-11-29 16:02:23,894Desc:enter last name
+2017-11-29 16:02:23,910keyword1:enter
+2017-11-29 16:02:23,926keyword2://input[@name='lastname']
+2017-11-29 16:02:23,946keyword3:prakash
+2017-11-29 16:02:23,950start-executeKeyword
+2017-11-29 16:02:24,108End-ExecuteKeyword
+2017-11-29 16:02:24,112same page no navigation
+2017-11-29 16:02:24,112end execute steps
+2017-11-29 16:02:24,112----EndStep9-----------
+2017-11-29 16:02:24,112-----start step:10-------
+2017-11-29 16:02:24,136Desc:enter email address
+2017-11-29 16:02:24,152keyword1:enter
+2017-11-29 16:02:24,168keyword2://input[@name='email']
+2017-11-29 16:02:24,192keyword3:bhanu@gmail.com
+2017-11-29 16:02:24,236start-executeKeyword
+2017-11-29 16:02:24,420End-ExecuteKeyword
+2017-11-29 16:02:24,424same page no navigation
+2017-11-29 16:02:24,424end execute steps
+2017-11-29 16:02:24,424----EndStep10-----------
+2017-11-29 16:02:24,424-----start step:11-------
+2017-11-29 16:02:24,440Desc:enter PWD
+2017-11-29 16:02:24,452keyword1:enter
+2017-11-29 16:02:24,468keyword2://input[@name='password']
+2017-11-29 16:02:24,484keyword3:bhanu123
+2017-11-29 16:02:24,492start-executeKeyword
+2017-11-29 16:02:24,628End-ExecuteKeyword
+2017-11-29 16:02:24,641same page no navigation
+2017-11-29 16:02:24,641end execute steps
+2017-11-29 16:02:24,641----EndStep11-----------
+2017-11-29 16:02:24,641-----start step:12-------
+2017-11-29 16:02:24,657Desc:enter confirm pwd
+2017-11-29 16:02:24,673keyword1:enter
+2017-11-29 16:02:24,689keyword2://input[@name='confirm']
+2017-11-29 16:02:24,717keyword3:bhanu123
+2017-11-29 16:02:24,737start-executeKeyword
+2017-11-29 16:02:24,844End-ExecuteKeyword
+2017-11-29 16:02:24,856same page no navigation
+2017-11-29 16:02:24,856end execute steps
+2017-11-29 16:02:24,856----EndStep12-----------
+2017-11-29 16:02:24,856-----start step:13-------
+2017-11-29 16:02:24,864Desc:Click save
+2017-11-29 16:02:24,876keyword1:click
+2017-11-29 16:02:24,892keyword2://a[@data-original-title='Save']
+2017-11-29 16:02:24,904keyword3:
+2017-11-29 16:02:24,912start-executeKeyword
+2017-11-29 16:02:34,999Script is FAILEDvalidLogin
+2017-11-29 16:02:35,019Taking Screenshot:./photo/ForFailure/validLogin_29-Nov-17_04-02-35.png
+2017-11-29 16:02:35,324Quit the Browser
+2017-11-29 16:02:36,125----------------------------------------
+2017-11-29 16:02:36,125Total PASS:0
+2017-11-29 16:02:36,125Total FAIL:1
+2017-11-29 16:02:36,125TOtal Scripts Executed:1
+2017-11-29 16:02:36,125----------------------------------------------------------
+2017-11-29 16:02:36,477Suite EXecution Completed
+2017-11-29 16:03:42,819set the path of Driverexecutable
+2017-11-29 16:03:42,819Suite Execution Started
+2017-11-29 16:03:43,544script count:1
+2017-11-29 16:03:43,607script:validLoginExecute:yes
+2017-11-29 16:03:43,607open Chrome Browser
+2017-11-29 16:03:46,709set ITO:10Sec
+2017-11-29 16:03:46,734Enter the urlhttp://localhost:8080/app/admin/
+2017-11-29 16:03:48,316Execute script:validLogin
+2017-11-29 16:03:48,320start execute steps
+2017-11-29 16:03:48,404step count:14
+2017-11-29 16:03:48,404-----start step:1-------
+2017-11-29 16:03:48,516Desc:Enter 'admin' in UN TF
+2017-11-29 16:03:48,552keyword1:enter
+2017-11-29 16:03:48,588keyword2://input[@id='input-username']
+2017-11-29 16:03:48,620keyword3:admin
+2017-11-29 16:03:48,632start-executeKeyword
+2017-11-29 16:03:48,752End-ExecuteKeyword
+2017-11-29 16:03:48,764same page no navigation
+2017-11-29 16:03:48,764end execute steps
+2017-11-29 16:03:48,764----EndStep1-----------
+2017-11-29 16:03:48,764-----start step:2-------
+2017-11-29 16:03:48,792Desc:Enter 'qspiders' in PWD TF
+2017-11-29 16:03:48,820keyword1:enter
+2017-11-29 16:03:48,880keyword2://input[@id='input-password']
+2017-11-29 16:03:48,920keyword3:admin1
+2017-11-29 16:03:48,936start-executeKeyword
+2017-11-29 16:03:49,031End-ExecuteKeyword
+2017-11-29 16:03:49,039same page no navigation
+2017-11-29 16:03:49,039end execute steps
+2017-11-29 16:03:49,039----EndStep2-----------
+2017-11-29 16:03:49,039-----start step:3-------
+2017-11-29 16:03:49,075Desc:Click Login
+2017-11-29 16:03:49,115keyword1:click
+2017-11-29 16:03:49,139keyword2://button[.='Login']
+2017-11-29 16:03:49,167keyword3:
+2017-11-29 16:03:49,183start-executeKeyword
+2017-11-29 16:03:49,487End-ExecuteKeyword
+2017-11-29 16:03:49,496Diff page so taking screen shot
+2017-11-29 16:03:49,496Taking Screenshot:./photo/ForEachPage/validLogin_29-Nov-17_04-03-49.png
+2017-11-29 16:03:49,909end execute steps
+2017-11-29 16:03:49,909----EndStep3-----------
+2017-11-29 16:03:49,909-----start step:4-------
+2017-11-29 16:03:49,941Desc:Click Menu Button
+2017-11-29 16:03:49,957keyword1:click
+2017-11-29 16:03:49,988keyword2://img[@id='button-menu']
+2017-11-29 16:03:50,016keyword3:
+2017-11-29 16:03:50,024start-executeKeyword
+2017-11-29 16:03:50,106End-ExecuteKeyword
+2017-11-29 16:03:50,134same page no navigation
+2017-11-29 16:03:50,134end execute steps
+2017-11-29 16:03:50,134----EndStep4-----------
+2017-11-29 16:03:50,134-----start step:5-------
+2017-11-29 16:03:50,158Desc:Click Billing
+2017-11-29 16:03:50,174keyword1:click
+2017-11-29 16:03:50,198keyword2:(//a[@class='parent'])[3]
+2017-11-29 16:03:50,214keyword3:
+2017-11-29 16:03:50,230start-executeKeyword
+2017-11-29 16:03:50,362End-ExecuteKeyword
+2017-11-29 16:03:50,370same page no navigation
+2017-11-29 16:03:50,370end execute steps
+2017-11-29 16:03:50,370----EndStep5-----------
+2017-11-29 16:03:50,370-----start step:6-------
+2017-11-29 16:03:50,386Desc:Click Customer
+2017-11-29 16:03:50,414keyword1:click
+2017-11-29 16:03:50,438keyword2://span[.='Customers']
+2017-11-29 16:03:50,462keyword3:
+2017-11-29 16:03:50,514start-executeKeyword
+2017-11-29 16:03:50,807End-ExecuteKeyword
+2017-11-29 16:03:50,819Diff page so taking screen shot
+2017-11-29 16:03:50,819Taking Screenshot:./photo/ForEachPage/validLogin_29-Nov-17_04-03-50.png
+2017-11-29 16:03:51,163end execute steps
+2017-11-29 16:03:51,163----EndStep6-----------
+2017-11-29 16:03:51,163-----start step:7-------
+2017-11-29 16:03:51,191Desc:Click add
+2017-11-29 16:03:51,195keyword1:click
+2017-11-29 16:03:51,211keyword2://a[@data-original-title='Add']
+2017-11-29 16:03:51,242keyword3:
+2017-11-29 16:03:51,242start-executeKeyword
+2017-11-29 16:03:51,464End-ExecuteKeyword
+2017-11-29 16:03:51,488same page no navigation
+2017-11-29 16:03:51,488end execute steps
+2017-11-29 16:03:51,488----EndStep7-----------
+2017-11-29 16:03:51,488-----start step:8-------
+2017-11-29 16:03:51,512Desc:enter first name
+2017-11-29 16:03:51,532keyword1:enter
+2017-11-29 16:03:51,549keyword2://input[@name='firstname']
+2017-11-29 16:03:51,569keyword3:bhanu
+2017-11-29 16:03:51,585start-executeKeyword
+2017-11-29 16:03:51,729End-ExecuteKeyword
+2017-11-29 16:03:51,737same page no navigation
+2017-11-29 16:03:51,737end execute steps
+2017-11-29 16:03:51,737----EndStep8-----------
+2017-11-29 16:03:51,737-----start step:9-------
+2017-11-29 16:03:51,753Desc:enter last name
+2017-11-29 16:03:51,781keyword1:enter
+2017-11-29 16:03:51,809keyword2://input[@name='lastname']
+2017-11-29 16:03:51,825keyword3:prakash
+2017-11-29 16:03:51,833start-executeKeyword
+2017-11-29 16:03:51,964End-ExecuteKeyword
+2017-11-29 16:03:51,976same page no navigation
+2017-11-29 16:03:51,976end execute steps
+2017-11-29 16:03:51,976----EndStep9-----------
+2017-11-29 16:03:51,976-----start step:10-------
+2017-11-29 16:03:52,000Desc:enter email address
+2017-11-29 16:03:52,016keyword1:enter
+2017-11-29 16:03:52,044keyword2://input[@name='email']
+2017-11-29 16:03:52,084keyword3:bhanu@gmail.com
+2017-11-29 16:03:52,100start-executeKeyword
+2017-11-29 16:03:52,243End-ExecuteKeyword
+2017-11-29 16:03:52,251same page no navigation
+2017-11-29 16:03:52,251end execute steps
+2017-11-29 16:03:52,251----EndStep10-----------
+2017-11-29 16:03:52,251-----start step:11-------
+2017-11-29 16:03:52,267Desc:enter PWD
+2017-11-29 16:03:52,283keyword1:enter
+2017-11-29 16:03:52,295keyword2://input[@name='password']
+2017-11-29 16:03:52,307keyword3:bhanu123
+2017-11-29 16:03:52,315start-executeKeyword
+2017-11-29 16:03:52,435End-ExecuteKeyword
+2017-11-29 16:03:52,443same page no navigation
+2017-11-29 16:03:52,443end execute steps
+2017-11-29 16:03:52,443----EndStep11-----------
+2017-11-29 16:03:52,443-----start step:12-------
+2017-11-29 16:03:52,451Desc:enter confirm pwd
+2017-11-29 16:03:52,467keyword1:enter
+2017-11-29 16:03:52,491keyword2://input[@name='confirm']
+2017-11-29 16:03:52,503keyword3:bhanu123
+2017-11-29 16:03:52,515start-executeKeyword
+2017-11-29 16:03:52,647End-ExecuteKeyword
+2017-11-29 16:03:52,652same page no navigation
+2017-11-29 16:03:52,652end execute steps
+2017-11-29 16:03:52,652----EndStep12-----------
+2017-11-29 16:03:52,652-----start step:13-------
+2017-11-29 16:03:52,664Desc:Click save
+2017-11-29 16:03:52,676keyword1:click
+2017-11-29 16:03:52,688keyword2://button
+2017-11-29 16:03:52,704keyword3:
+2017-11-29 16:03:52,712start-executeKeyword
+2017-11-29 16:03:55,120End-ExecuteKeyword
+2017-11-29 16:03:55,125same page no navigation
+2017-11-29 16:03:55,129end execute steps
+2017-11-29 16:03:55,129----EndStep13-----------
+2017-11-29 16:03:55,129-----start step:14-------
+2017-11-29 16:03:55,145Desc:Verify in DB
+2017-11-29 16:03:55,161keyword1:checkInDB
+2017-11-29 16:03:55,177keyword2:SELECT * FROM `bsguw_customer` 
+WHERE customer_id=(SELECT MAX(customer_id) FROM bsguw_customer)
+2017-11-29 16:03:55,193keyword3:bhanu
+2017-11-29 16:03:55,201start-executeKeyword
+2017-11-29 16:03:55,201Checking data with database
+2017-11-29 16:03:55,201Expected value: bhanu
+2017-11-29 16:03:55,201Executing following query in DB: 
+2017-11-29 16:03:55,201SELECT * FROM `bsguw_customer` 
+WHERE customer_id=(SELECT MAX(customer_id) FROM bsguw_customer)
+2017-11-29 16:03:55,529Actual value from DB: 3
+2017-11-29 16:03:55,529FAIL:value is not matching in DB
+2017-11-29 16:03:55,529Script is FAILEDvalidLogin
+2017-11-29 16:03:55,544Taking Screenshot:./photo/ForFailure/validLogin_29-Nov-17_04-03-55.png
+2017-11-29 16:03:55,875Quit the Browser
+2017-11-29 16:03:56,675----------------------------------------
+2017-11-29 16:03:56,675Total PASS:0
+2017-11-29 16:03:56,675Total FAIL:1
+2017-11-29 16:03:56,675TOtal Scripts Executed:1
+2017-11-29 16:03:56,675----------------------------------------------------------
+2017-11-29 16:03:56,986Suite EXecution Completed
+2017-11-29 16:07:41,836set the path of Driverexecutable
+2017-11-29 16:07:41,836Suite Execution Started
+2017-11-29 16:07:42,633script count:1
+2017-11-29 16:07:42,712script:validLoginExecute:yes
+2017-11-29 16:07:42,712open Chrome Browser
+2017-11-29 16:07:45,851set ITO:10Sec
+2017-11-29 16:07:45,868Enter the urlhttp://localhost:8080/app/admin/
+2017-11-29 16:07:48,125Execute script:validLogin
+2017-11-29 16:07:48,130start execute steps
+2017-11-29 16:07:48,211step count:14
+2017-11-29 16:07:48,211-----start step:1-------
+2017-11-29 16:07:48,323Desc:Enter 'admin' in UN TF
+2017-11-29 16:07:48,355keyword1:enter
+2017-11-29 16:07:48,399keyword2://input[@id='input-username']
+2017-11-29 16:07:48,443keyword3:admin
+2017-11-29 16:07:48,467start-executeKeyword
+2017-11-29 16:07:48,579End-ExecuteKeyword
+2017-11-29 16:07:48,587same page no navigation
+2017-11-29 16:07:48,587end execute steps
+2017-11-29 16:07:48,587----EndStep1-----------
+2017-11-29 16:07:48,587-----start step:2-------
+2017-11-29 16:07:48,611Desc:Enter 'qspiders' in PWD TF
+2017-11-29 16:07:48,643keyword1:enter
+2017-11-29 16:07:48,683keyword2://input[@id='input-password']
+2017-11-29 16:07:48,711keyword3:admin1
+2017-11-29 16:07:48,723start-executeKeyword
+2017-11-29 16:07:48,821End-ExecuteKeyword
+2017-11-29 16:07:48,829same page no navigation
+2017-11-29 16:07:48,829end execute steps
+2017-11-29 16:07:48,833----EndStep2-----------
+2017-11-29 16:07:48,833-----start step:3-------
+2017-11-29 16:07:48,853Desc:Click Login
+2017-11-29 16:07:48,877keyword1:click
+2017-11-29 16:07:48,901keyword2://button[.='Login']
+2017-11-29 16:07:48,933keyword3:
+2017-11-29 16:07:48,973start-executeKeyword
+2017-11-29 16:07:49,264End-ExecuteKeyword
+2017-11-29 16:07:49,273Diff page so taking screen shot
+2017-11-29 16:07:49,273Taking Screenshot:./photo/ForEachPage/validLogin_29-Nov-17_04-07-49.png
+2017-11-29 16:07:49,714end execute steps
+2017-11-29 16:07:49,714----EndStep3-----------
+2017-11-29 16:07:49,714-----start step:4-------
+2017-11-29 16:07:49,745Desc:Click Menu Button
+2017-11-29 16:07:49,761keyword1:click
+2017-11-29 16:07:49,792keyword2://img[@id='button-menu']
+2017-11-29 16:07:49,808keyword3:
+2017-11-29 16:07:49,823start-executeKeyword
+2017-11-29 16:07:49,921End-ExecuteKeyword
+2017-11-29 16:07:49,925same page no navigation
+2017-11-29 16:07:49,925end execute steps
+2017-11-29 16:07:49,925----EndStep4-----------
+2017-11-29 16:07:49,925-----start step:5-------
+2017-11-29 16:07:49,957Desc:Click Billing
+2017-11-29 16:07:49,977keyword1:click
+2017-11-29 16:07:50,001keyword2:(//a[@class='parent'])[3]
+2017-11-29 16:07:50,025keyword3:
+2017-11-29 16:07:50,065start-executeKeyword
+2017-11-29 16:07:50,185End-ExecuteKeyword
+2017-11-29 16:07:50,193same page no navigation
+2017-11-29 16:07:50,193end execute steps
+2017-11-29 16:07:50,193----EndStep5-----------
+2017-11-29 16:07:50,193-----start step:6-------
+2017-11-29 16:07:50,213Desc:Click Customer
+2017-11-29 16:07:50,233keyword1:click
+2017-11-29 16:07:50,257keyword2://span[.='Customers']
+2017-11-29 16:07:50,277keyword3:
+2017-11-29 16:07:50,310start-executeKeyword
+2017-11-29 16:07:50,698End-ExecuteKeyword
+2017-11-29 16:07:50,750Diff page so taking screen shot
+2017-11-29 16:07:50,750Taking Screenshot:./photo/ForEachPage/validLogin_29-Nov-17_04-07-50.png
+2017-11-29 16:07:51,026end execute steps
+2017-11-29 16:07:51,026----EndStep6-----------
+2017-11-29 16:07:51,026-----start step:7-------
+2017-11-29 16:07:51,057Desc:Click add
+2017-11-29 16:07:51,073keyword1:click
+2017-11-29 16:07:51,089keyword2://a[@data-original-title='Add']
+2017-11-29 16:07:51,104keyword3:
+2017-11-29 16:07:51,120start-executeKeyword
+2017-11-29 16:07:51,318End-ExecuteKeyword
+2017-11-29 16:07:51,339same page no navigation
+2017-11-29 16:07:51,339end execute steps
+2017-11-29 16:07:51,339----EndStep7-----------
+2017-11-29 16:07:51,339-----start step:8-------
+2017-11-29 16:07:51,359Desc:enter first name
+2017-11-29 16:07:51,375keyword1:enter
+2017-11-29 16:07:51,399keyword2://input[@name='firstname']
+2017-11-29 16:07:51,415keyword3:bhanu
+2017-11-29 16:07:51,467start-executeKeyword
+2017-11-29 16:07:51,611End-ExecuteKeyword
+2017-11-29 16:07:51,615same page no navigation
+2017-11-29 16:07:51,619end execute steps
+2017-11-29 16:07:51,619----EndStep8-----------
+2017-11-29 16:07:51,619-----start step:9-------
+2017-11-29 16:07:51,631Desc:enter last name
+2017-11-29 16:07:51,647keyword1:enter
+2017-11-29 16:07:51,671keyword2://input[@name='lastname']
+2017-11-29 16:07:51,687keyword3:prakash
+2017-11-29 16:07:51,695start-executeKeyword
+2017-11-29 16:07:51,821End-ExecuteKeyword
+2017-11-29 16:07:51,833same page no navigation
+2017-11-29 16:07:51,833end execute steps
+2017-11-29 16:07:51,833----EndStep9-----------
+2017-11-29 16:07:51,833-----start step:10-------
+2017-11-29 16:07:51,853Desc:enter email address
+2017-11-29 16:07:51,869keyword1:enter
+2017-11-29 16:07:51,901keyword2://input[@name='email']
+2017-11-29 16:07:51,925keyword3:bhanu@gmail.com
+2017-11-29 16:07:51,957start-executeKeyword
+2017-11-29 16:07:52,120End-ExecuteKeyword
+2017-11-29 16:07:52,128same page no navigation
+2017-11-29 16:07:52,128end execute steps
+2017-11-29 16:07:52,128----EndStep10-----------
+2017-11-29 16:07:52,132-----start step:11-------
+2017-11-29 16:07:52,144Desc:enter PWD
+2017-11-29 16:07:52,156keyword1:enter
+2017-11-29 16:07:52,172keyword2://input[@name='password']
+2017-11-29 16:07:52,188keyword3:bhanu123
+2017-11-29 16:07:52,200start-executeKeyword
+2017-11-29 16:07:52,303End-ExecuteKeyword
+2017-11-29 16:07:52,311same page no navigation
+2017-11-29 16:07:52,311end execute steps
+2017-11-29 16:07:52,311----EndStep11-----------
+2017-11-29 16:07:52,311-----start step:12-------
+2017-11-29 16:07:52,323Desc:enter confirm pwd
+2017-11-29 16:07:52,340keyword1:enter
+2017-11-29 16:07:52,352keyword2://input[@name='confirm']
+2017-11-29 16:07:52,372keyword3:bhanu123
+2017-11-29 16:07:52,384start-executeKeyword
+2017-11-29 16:07:52,516End-ExecuteKeyword
+2017-11-29 16:07:52,524same page no navigation
+2017-11-29 16:07:52,524end execute steps
+2017-11-29 16:07:52,524----EndStep12-----------
+2017-11-29 16:07:52,524-----start step:13-------
+2017-11-29 16:07:52,536Desc:Click save
+2017-11-29 16:07:52,552keyword1:click
+2017-11-29 16:07:52,568keyword2://button
+2017-11-29 16:07:52,584keyword3:
+2017-11-29 16:07:52,588start-executeKeyword
+2017-11-29 16:07:52,784End-ExecuteKeyword
+2017-11-29 16:07:52,788same page no navigation
+2017-11-29 16:07:52,788end execute steps
+2017-11-29 16:07:52,788----EndStep13-----------
+2017-11-29 16:07:52,788-----start step:14-------
+2017-11-29 16:07:52,812Desc:Verify in DB
+2017-11-29 16:07:52,832keyword1:checkInDB
+2017-11-29 16:07:52,852keyword2:SELECT firstname FROM `bsguw_customer` 
+WHERE customer_id=(SELECT MAX(customer_id) FROM bsguw_customer)
+2017-11-29 16:07:52,864keyword3:bhanu
+2017-11-29 16:07:52,872start-executeKeyword
+2017-11-29 16:07:52,872Checking data with database
+2017-11-29 16:07:52,872Expected value: bhanu
+2017-11-29 16:07:52,872Executing following query in DB: 
+2017-11-29 16:07:52,872SELECT firstname FROM `bsguw_customer` 
+WHERE customer_id=(SELECT MAX(customer_id) FROM bsguw_customer)
+2017-11-29 16:07:53,195Actual value from DB: bhanu
+2017-11-29 16:07:53,195PASS: value is matching in DB
+2017-11-29 16:07:53,195End-ExecuteKeyword
+2017-11-29 16:07:53,195same page no navigation
+2017-11-29 16:07:53,195end execute steps
+2017-11-29 16:07:53,195----EndStep14-----------
+2017-11-29 16:07:53,195Script is PASSED:validLogin
+2017-11-29 16:07:53,210Quit the Browser
+2017-11-29 16:07:54,038----------------------------------------
+2017-11-29 16:07:54,038Total PASS:1
+2017-11-29 16:07:54,038Total FAIL:0
+2017-11-29 16:07:54,038TOtal Scripts Executed:1
+2017-11-29 16:07:54,038----------------------------------------------------------
+2017-11-29 16:07:54,367Suite EXecution Completed
+2017-11-30 14:52:38,695set the path of Driverexecutable
+2017-11-30 14:52:38,746Suite Execution Started
+2017-11-30 14:52:39,860script count:2
+2017-11-30 14:52:39,932script:validLoginExecute:no
+2017-11-30 14:52:39,932Not Executing scriptvalidLogin
+2017-11-30 14:52:39,995script:testDBExecute:yes
+2017-11-30 14:52:39,995open Chrome Browser
+2017-11-30 14:52:44,576set ITO:10Sec
+2017-11-30 14:52:44,664Enter the urlhttp://localhost:8080/app/admin/
+2017-11-30 14:52:47,498Execute script:testDB
+2017-11-30 14:52:47,502start execute steps
+2017-11-30 14:52:47,715step count:1
+2017-11-30 14:52:47,719-----start step:1-------
+2017-11-30 14:52:47,755Desc:Check multiple value in DB
+2017-11-30 14:52:47,815keyword1:checkMultipleInDB
+2017-11-30 14:52:47,859keyword2:select firstname,lastname from bsguw_customer 
+WHERE customer_id=(SELECT MAX(customer_id) FROM bsguw_customer)
+2017-11-30 14:52:47,919keyword3:bhanu;prakash
+2017-11-30 14:52:47,935start-executeKeyword
+2017-11-30 14:52:47,935Checking multiple values in DB:
+2017-11-30 14:52:47,939Expected value from script
+2017-11-30 14:52:47,939bhanu
+2017-11-30 14:52:47,939prakash
+2017-11-30 14:52:47,939Executing following query in DataBase:
+2017-11-30 14:52:47,939select firstname,lastname from bsguw_customer 
+WHERE customer_id=(SELECT MAX(customer_id) FROM bsguw_customer)
+2017-11-30 14:52:48,796Actual value from database:
+2017-11-30 14:52:48,796bhanu
+2017-11-30 14:52:48,796prakash
+2017-11-30 14:52:48,796PASS:Value is matching in DB
+2017-11-30 14:52:48,796End-ExecuteKeyword
+2017-11-30 14:52:48,805same page no navigation
+2017-11-30 14:52:48,805end execute steps
+2017-11-30 14:52:48,805----EndStep1-----------
+2017-11-30 14:52:48,805Script is PASSED:testDB
+2017-11-30 14:52:48,805Quit the Browser
+2017-11-30 14:52:49,760----------------------------------------
+2017-11-30 14:52:49,760Total PASS:1
+2017-11-30 14:52:49,760Total FAIL:0
+2017-11-30 14:52:49,760TOtal Scripts Executed:1
+2017-11-30 14:52:49,760----------------------------------------------------------
+2017-11-30 14:52:50,299Suite EXecution Completed
+2017-11-30 15:22:58,552set the path of Driverexecutable
+2017-11-30 15:22:58,615Suite Execution Started
+2017-11-30 15:22:59,327script count:2
+2017-11-30 15:22:59,391script:validLoginExecute:no
+2017-11-30 15:22:59,391Not Executing scriptvalidLogin
+2017-11-30 15:22:59,469script:testDBExecute:yes
+2017-11-30 15:22:59,469open  Browser in Remote System
+2017-11-30 15:23:09,019set ITO:10Sec
+2017-11-30 15:23:09,082Enter the urlhttp://localhost:8080/app/admin/
+2017-11-30 15:23:11,434Execute script:testDB
+2017-11-30 15:23:11,438start execute steps
+2017-11-30 15:23:11,607step count:1
+2017-11-30 15:23:11,607-----start step:1-------
+2017-11-30 15:23:11,635Desc:Check multiple value in DB
+2017-11-30 15:23:11,675keyword1:checkMultipleInDB
+2017-11-30 15:23:11,703keyword2:select firstname,lastname from bsguw_customer 
+WHERE customer_id=(SELECT MAX(customer_id) FROM bsguw_customer)
+2017-11-30 15:23:11,731keyword3:bhanu;prakash
+2017-11-30 15:23:13,463start-executeKeyword
+2017-11-30 15:23:13,463Checking multiple values in DB:
+2017-11-30 15:23:13,476Expected value from script
+2017-11-30 15:23:13,476bhanu
+2017-11-30 15:23:13,476prakash
+2017-11-30 15:23:13,476Executing following query in DataBase:
+2017-11-30 15:23:13,476select firstname,lastname from bsguw_customer 
+WHERE customer_id=(SELECT MAX(customer_id) FROM bsguw_customer)
+2017-11-30 15:23:16,144Actual value from database:
+2017-11-30 15:23:16,144FAIL: value is not matching in DB
+2017-11-30 15:23:16,144Script is FAILEDtestDB
+2017-11-30 15:23:16,144Taking Screenshot:./photo/ForFailure/testDB_30-Nov-17_03-23-16.png
+2017-11-30 15:23:16,572Quit the Browser
+2017-11-30 15:23:16,635----------------------------------------
+2017-11-30 15:23:16,635Total PASS:0
+2017-11-30 15:23:16,635Total FAIL:1
+2017-11-30 15:23:16,635TOtal Scripts Executed:1
+2017-11-30 15:23:16,635----------------------------------------------------------
+2017-11-30 15:23:16,916Suite EXecution Completed
+2017-11-30 16:07:49,455set the path of Driverexecutable
+2017-11-30 16:07:49,455Suite Execution Started
+2017-11-30 16:07:50,160script count:2
+2017-11-30 16:07:50,223script:validLoginExecute:no
+2017-11-30 16:07:50,223Not Executing scriptvalidLogin
+2017-11-30 16:07:50,271script:testDBExecute:yes
+2017-11-30 16:07:50,271open  Browser in Remote System
+2017-11-30 16:07:53,483set ITO:10Sec
+2017-11-30 16:07:53,496Enter the urlhttp://localhost:8080/app/admin/
+2017-11-30 16:07:54,847Execute script:testDB
+2017-11-30 16:07:54,851start execute steps
+2017-11-30 16:07:55,096step count:1
+2017-11-30 16:07:55,100-----start step:1-------
+2017-11-30 16:07:55,140Desc:Check multiple value in DB
+2017-11-30 16:07:55,200keyword1:checkMultipleInDB
+2017-11-30 16:07:55,296keyword2:SELECT firstname,lastname from bsguw_customer where customer_id=(SELECT max(customer_id) FROM bsguw_customer)
+2017-11-30 16:07:55,340keyword3:bhanu;prakash
+2017-11-30 16:07:55,352start-executeKeyword
+2017-11-30 16:07:55,352Checking multiple values in DB:
+2017-11-30 16:07:55,352Expected value from script
+2017-11-30 16:07:55,356bhanu
+2017-11-30 16:07:55,356prakash
+2017-11-30 16:07:55,356Executing following query in DataBase:
+2017-11-30 16:07:55,356SELECT firstname,lastname from bsguw_customer where customer_id=(SELECT max(customer_id) FROM bsguw_customer)
+2017-11-30 16:07:55,645Actual value from database:
+2017-11-30 16:07:55,645bhanu
+2017-11-30 16:07:55,645prakash
+2017-11-30 16:07:55,645PASS:Value is matching in DB
+2017-11-30 16:07:55,645End-ExecuteKeyword
+2017-11-30 16:07:55,660same page no navigation
+2017-11-30 16:07:55,660end execute steps
+2017-11-30 16:07:55,660----EndStep1-----------
+2017-11-30 16:07:55,660Script is PASSED:testDB
+2017-11-30 16:07:55,660Quit the Browser
+2017-11-30 16:07:55,728----------------------------------------
+2017-11-30 16:07:55,728Total PASS:1
+2017-11-30 16:07:55,728Total FAIL:0
+2017-11-30 16:07:55,728TOtal Scripts Executed:1
+2017-11-30 16:07:55,728----------------------------------------------------------
+2017-11-30 16:07:56,007Suite EXecution Completed
+2017-11-30 16:29:57,649set the path of Driverexecutable
+2017-11-30 16:30:02,417Suite Execution Started
+2017-11-30 16:30:06,840script count:2
+2017-11-30 16:30:13,919script:validLoginExecute:no
+2017-11-30 16:30:16,858Not Executing scriptvalidLogin
+2017-11-30 16:30:23,531script:testDBExecute:yes
+2017-11-30 16:30:32,501open  Browser in Remote System
+2017-11-30 16:31:13,616Script is FAILEDtestDB
+2017-11-30 16:31:21,274Taking Screenshot:./photo/ForFailure/testDB_30-Nov-17_04-31-19.png
+2017-12-01 14:03:37,773set the path of Driverexecutable
+2017-12-01 14:03:37,867Suite Execution Started
+2017-12-01 14:03:39,085script count:2
+2017-12-01 14:03:39,165script:validLoginExecute:no
+2017-12-01 14:03:39,165Not Executing scriptvalidLogin
+2017-12-01 14:03:39,227script:testDBExecute:yes
+2017-12-01 14:03:39,227open  Browser in Remote System
+2017-12-01 14:03:42,493Script is FAILEDtestDB
+2017-12-01 14:03:42,509Taking Screenshot:./photo/ForFailure/testDB_01-Dec-17_02-03-42.png
+2017-12-01 14:03:42,525Quit the Browser
+2017-12-01 14:14:29,272set the path of Driverexecutable
+2017-12-01 14:14:29,272Suite Execution Started
+2017-12-01 14:14:30,053script count:2
+2017-12-01 14:14:30,132script:validLoginExecute:no
+2017-12-01 14:14:30,132Not Executing scriptvalidLogin
+2017-12-01 14:14:30,195script:testDBExecute:yes
+2017-12-01 14:14:30,195open  Browser in Remote System
+2017-12-01 14:14:33,086Script is FAILEDtestDB
+2017-12-01 14:14:33,102Taking Screenshot:./photo/ForFailure/testDB_01-Dec-17_02-14-33.png
+2017-12-01 14:14:33,102Quit the Browser
+2017-12-01 14:17:01,887set the path of Driverexecutable
+2017-12-01 14:17:01,887Suite Execution Started
+2017-12-01 14:17:02,621script count:2
+2017-12-01 14:17:02,701script:validLoginExecute:no
+2017-12-01 14:17:02,701Not Executing scriptvalidLogin
+2017-12-01 14:17:02,763script:testDBExecute:yes
+2017-12-01 14:17:02,763open  Browser in Remote System
+2017-12-01 14:17:05,654Script is FAILEDtestDB
+2017-12-01 14:17:05,670Taking Screenshot:./photo/ForFailure/testDB_01-Dec-17_02-17-05.png
+2017-12-01 14:17:05,670Quit the Browser
+2017-12-01 14:20:13,281set the path of Driverexecutable
+2017-12-01 14:20:13,281Suite Execution Started
+2017-12-01 14:20:14,015script count:2
+2017-12-01 14:20:14,094script:validLoginExecute:no
+2017-12-01 14:20:14,094Not Executing scriptvalidLogin
+2017-12-01 14:20:14,141script:testDBExecute:yes
+2017-12-01 14:20:14,141open  Browser in Remote System
+2017-12-01 14:20:22,785set ITO:10Sec
+2017-12-01 14:20:22,822Enter the urlhttp://localhost:8080/app/admin/
+2017-12-01 14:20:24,512Execute script:testDB
+2017-12-01 14:20:24,516start execute steps
+2017-12-01 14:20:24,857step count:1
+2017-12-01 14:20:24,857-----start step:1-------
+2017-12-01 14:20:24,900Desc:Check multiple value in DB
+2017-12-01 14:20:24,936keyword1:checkMultipleInDB
+2017-12-01 14:20:25,030keyword2:SELECT firstname,lastname from bsguw_customer where customer_id=(SELECT max(customer_id) FROM bsguw_customer)
+2017-12-01 14:20:25,073keyword3:bhanu;prakash
+2017-12-01 14:20:25,125start-executeKeyword
+2017-12-01 14:20:25,125Checking multiple values in DB:
+2017-12-01 14:20:25,129Expected value from script
+2017-12-01 14:20:25,129bhanu
+2017-12-01 14:20:25,129prakash
+2017-12-01 14:20:25,129Executing following query in DataBase:
+2017-12-01 14:20:25,129SELECT firstname,lastname from bsguw_customer where customer_id=(SELECT max(customer_id) FROM bsguw_customer)
+2017-12-01 14:20:25,890Actual value from database:
+2017-12-01 14:20:25,890bhanu
+2017-12-01 14:20:25,890prakash
+2017-12-01 14:20:25,890PASS:Value is matching in DB
+2017-12-01 14:20:25,890End-ExecuteKeyword
+2017-12-01 14:20:25,922same page no navigation
+2017-12-01 14:20:25,922end execute steps
+2017-12-01 14:20:25,922----EndStep1-----------
+2017-12-01 14:20:25,922Script is PASSED:testDB
+2017-12-01 14:20:25,922Quit the Browser
+2017-12-01 14:20:26,045----------------------------------------
+2017-12-01 14:20:26,045Total PASS:1
+2017-12-01 14:20:26,045Total FAIL:0
+2017-12-01 14:20:26,045TOtal Scripts Executed:1
+2017-12-01 14:20:26,045----------------------------------------------------------
+2017-12-01 14:20:26,749Suite EXecution Completed
+2017-12-01 14:31:43,680set the path of Driverexecutable
+2017-12-01 14:31:43,680Suite Execution Started
+2017-12-01 14:31:44,461script count:2
+2017-12-01 14:31:44,543script:validLoginExecute:no
+2017-12-01 14:31:44,543Not Executing scriptvalidLogin
+2017-12-01 14:31:44,606script:testDBExecute:yes
+2017-12-01 14:31:44,606open  Browser in Remote System
+2017-12-01 14:31:48,683set ITO:10Sec
+2017-12-01 14:31:48,715Execute script:testDB
+2017-12-01 14:31:48,715start execute steps
+2017-12-01 14:31:49,434step count:1
+2017-12-01 14:31:49,434-----start step:1-------
+2017-12-01 14:31:49,887Desc:Check multiple value in DB
+2017-12-01 14:31:49,954keyword1:checkMultipleInDB
+2017-12-01 14:31:50,001keyword2:SELECT firstname,lastname from bsguw_customer where customer_id=(SELECT max(customer_id) FROM bsguw_customer)
+2017-12-01 14:31:50,189keyword3:bhanu;prakash
+2017-12-01 14:31:50,280start-executeKeyword
+2017-12-01 14:31:50,280Checking multiple values in DB:
+2017-12-01 14:31:50,284Expected value from script
+2017-12-01 14:31:50,284bhanu
+2017-12-01 14:31:50,284prakash
+2017-12-01 14:31:50,284Executing following query in DataBase:
+2017-12-01 14:31:50,284SELECT firstname,lastname from bsguw_customer where customer_id=(SELECT max(customer_id) FROM bsguw_customer)
+2017-12-01 14:31:50,849Actual value from database:
+2017-12-01 14:31:50,849bhanu
+2017-12-01 14:31:50,849prakash
+2017-12-01 14:31:50,849PASS:Value is matching in DB
+2017-12-01 14:31:50,849End-ExecuteKeyword
+2017-12-01 14:31:50,869same page no navigation
+2017-12-01 14:31:50,869end execute steps
+2017-12-01 14:31:50,869----EndStep1-----------
+2017-12-01 14:31:50,869Script is PASSED:testDB
+2017-12-01 14:31:50,869Quit the Browser
+2017-12-01 14:31:51,231----------------------------------------
+2017-12-01 14:31:51,231Total PASS:1
+2017-12-01 14:31:51,231Total FAIL:0
+2017-12-01 14:31:51,231TOtal Scripts Executed:1
+2017-12-01 14:31:51,231----------------------------------------------------------
+2017-12-01 14:31:51,488Enter the urlhttp://localhost:8080/app/admin/
+2017-12-01 14:31:51,747Suite EXecution Completed
+2017-12-01 14:31:59,033Enter the urlhttp://localhost:8080/app/admin/
+2017-12-01 14:33:03,585set the path of Driverexecutable
+2017-12-01 14:33:03,585Suite Execution Started
+2017-12-01 14:33:04,319script count:2
+2017-12-01 14:33:04,398script:validLoginExecute:no
+2017-12-01 14:33:04,398Not Executing scriptvalidLogin
+2017-12-01 14:33:04,461script:testDBExecute:yes
+2017-12-01 14:33:04,461open  Browser in Remote System
+2017-12-01 14:33:07,459set ITO:10Sec
+2017-12-01 14:33:07,477Execute script:testDB
+2017-12-01 14:33:07,477start execute steps
+2017-12-01 14:33:07,739step count:1
+2017-12-01 14:33:07,739-----start step:1-------
+2017-12-01 14:33:07,786Desc:Check multiple value in DB
+2017-12-01 14:33:07,817keyword1:checkMultipleInDB
+2017-12-01 14:33:07,864keyword2:SELECT firstname,lastname from bsguw_customer where customer_id=(SELECT max(customer_id) FROM bsguw_customer)
+2017-12-01 14:33:07,895keyword3:bhanu;prakash
+2017-12-01 14:33:07,942start-executeKeyword
+2017-12-01 14:33:07,942Checking multiple values in DB:
+2017-12-01 14:33:07,950Expected value from script
+2017-12-01 14:33:07,950bhanu
+2017-12-01 14:33:07,950prakash
+2017-12-01 14:33:07,950Executing following query in DataBase:
+2017-12-01 14:33:07,950SELECT firstname,lastname from bsguw_customer where customer_id=(SELECT max(customer_id) FROM bsguw_customer)
+2017-12-01 14:33:08,257Actual value from database:
+2017-12-01 14:33:08,257bhanu
+2017-12-01 14:33:08,257prakash
+2017-12-01 14:33:08,257PASS:Value is matching in DB
+2017-12-01 14:33:08,257End-ExecuteKeyword
+2017-12-01 14:33:08,272same page no navigation
+2017-12-01 14:33:08,272end execute steps
+2017-12-01 14:33:08,272----EndStep1-----------
+2017-12-01 14:33:08,272Script is PASSED:testDB
+2017-12-01 14:33:08,272Quit the Browser
+2017-12-01 14:33:08,319----------------------------------------
+2017-12-01 14:33:08,319Total PASS:1
+2017-12-01 14:33:08,319Total FAIL:0
+2017-12-01 14:33:08,319TOtal Scripts Executed:1
+2017-12-01 14:33:08,319----------------------------------------------------------
+2017-12-01 14:33:08,906Suite EXecution Completed
+2017-12-01 14:33:10,112Enter the urlhttp://localhost:8080/app/admin/
+2017-12-01 14:33:16,433Enter the urlhttp://localhost:8080/app/admin/
+2017-12-01 14:35:56,203set the path of Driverexecutable
+2017-12-01 14:35:56,203Suite Execution Started
+2017-12-01 14:35:56,984script count:2
+2017-12-01 14:35:57,064script:validLoginExecute:no
+2017-12-01 14:35:57,064Not Executing scriptvalidLogin
+2017-12-01 14:35:57,127script:testDBExecute:yes
+2017-12-01 14:35:57,127open  Browser in Remote System
+2017-12-01 14:36:00,159set ITO:10Sec
+2017-12-01 14:36:00,172Execute script:testDB
+2017-12-01 14:36:00,172Script is PASSED:testDB
+2017-12-01 14:36:00,172Quit the Browser
+2017-12-01 14:36:00,329----------------------------------------
+2017-12-01 14:36:00,329Total PASS:1
+2017-12-01 14:36:00,329Total FAIL:0
+2017-12-01 14:36:00,329TOtal Scripts Executed:1
+2017-12-01 14:36:00,329----------------------------------------------------------
+2017-12-01 14:36:00,704Suite EXecution Completed
+2017-12-01 14:36:02,331Enter the urlhttp://localhost:8080/app/admin/
+2017-12-01 14:36:09,604Enter the urlhttp://localhost:8080/app/admin/
+2017-12-01 14:38:18,396set the path of Driverexecutable
+2017-12-01 14:38:18,396Suite Execution Started
+2017-12-01 14:38:19,131script count:2
+2017-12-01 14:38:19,210script:validLoginExecute:no
+2017-12-01 14:38:19,210Not Executing scriptvalidLogin
+2017-12-01 14:38:19,272script:testDBExecute:yes
+2017-12-01 14:38:19,272open  Browser in Remote System
+2017-12-01 14:38:22,275set ITO:10Sec
+2017-12-01 14:38:22,292Execute script:testDB
+2017-12-01 14:38:22,292Script is PASSED:testDB
+2017-12-01 14:38:22,292Opening chrome browser
+2017-12-01 14:38:22,292Quit the Browser
+2017-12-01 14:38:22,292Opening firefox browser
+2017-12-01 14:38:22,479----------------------------------------
+2017-12-01 14:38:22,479Total PASS:1
+2017-12-01 14:38:22,479Total FAIL:0
+2017-12-01 14:38:22,479TOtal Scripts Executed:1
+2017-12-01 14:38:22,479----------------------------------------------------------
+2017-12-01 14:38:22,808Suite EXecution Completed
+2017-12-01 14:38:24,416Enter the urlhttp://localhost:8080/app/admin/
+2017-12-01 14:38:30,596Enter the urlhttp://localhost:8080/app/admin/
+2017-12-01 14:41:56,265set the path of Driverexecutable
+2017-12-01 14:41:56,265Suite Execution Started
+2017-12-01 14:41:57,046script count:2
+2017-12-01 14:41:57,142script:validLoginExecute:no
+2017-12-01 14:41:57,142Not Executing scriptvalidLogin
+2017-12-01 14:41:57,204script:testDBExecute:yes
+2017-12-01 14:41:57,204open  Browser in Remote System
+2017-12-01 14:42:00,381set ITO:10Sec
+2017-12-01 14:42:00,402Execute script:testDB
+2017-12-01 14:42:00,402Opening firefox browser
+2017-12-01 14:42:00,402Opening chrome browser
+2017-12-01 14:42:00,402Script is PASSED:testDB
+2017-12-01 14:42:00,402Quit the Browser
+2017-12-01 14:42:00,590----------------------------------------
+2017-12-01 14:42:00,590Total PASS:1
+2017-12-01 14:42:00,590Total FAIL:0
+2017-12-01 14:42:00,590TOtal Scripts Executed:1
+2017-12-01 14:42:00,590----------------------------------------------------------
+2017-12-01 14:42:01,090Suite EXecution Completed
+2017-12-01 14:42:02,392Enter the urlhttp://localhost:8080/app/admin/
+2017-12-01 14:42:09,253Enter the urlhttp://localhost:8080/app/admin/
